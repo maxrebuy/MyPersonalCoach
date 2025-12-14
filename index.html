@@ -29,19 +29,13 @@
       margin: 0;
       font-family: 'Inter', system-ui, sans-serif;
       color: var(--text);
-      font-size: 17px;
+      font-size: 16px;
       min-height: 100vh;
 
       /* Hintergrundbild + Abdunklung */
       background:
         linear-gradient(rgba(0, 0, 0, 0.86), rgba(0, 0, 0, 0.86)),
         url("background.jpg") center / cover no-repeat fixed;
-    }
-
-    header strong {
-      font-size: 26px;
-      font-weight: 900;
-      letter-spacing: 1px;
     }
 
     header {
@@ -62,7 +56,6 @@
 
     button {
       min-height: var(--touch);
-      font-size: 17px;
       min-width: var(--touch);
       background: #222;
       border: 1px solid var(--border);
@@ -70,7 +63,7 @@
       padding: 10px 12px;
       border-radius: 8px;
       cursor: pointer;
-      font-size: 17px;
+      font-size: 16px;
     }
 
     button.primary {
@@ -114,13 +107,12 @@
 
     input {
       background: #111;
-      font-size: 17px;
       border: 1px solid var(--border);
       color: var(--text);
       border-radius: 8px;
       padding: 10px;
       width: 100%;
-      font-size: 17px;
+      font-size: 16px;
     }
 
     .card {
@@ -140,7 +132,7 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      z-index: 2000;
+      z-index: 1000;
       padding: 16px;
     }
 
@@ -185,7 +177,7 @@
       display: flex;
       flex-direction: column;
       gap: 6px;
-      font-size: 17px;
+      font-size: 16px;
     }
 
     .exercise-actions {
@@ -195,8 +187,8 @@
       align-items: center;
     }
 
-    h2 { font-size: 22px; margin: 0 0 14px }
-    h3 { font-size: 18px; margin: 0 0 12px }
+    h2 { font-size: 20px; margin: 0 0 12px; }
+    h3 { font-size: 17px; margin: 0 0 10px; }
 
     .exercise-title-row {
       display: flex;
@@ -226,13 +218,7 @@
     }
 
     /* Accordion */
-    .accordion-header strong {
-      font-size: 26px;
-      font-weight: 900;
-      letter-spacing: 1px;
-    }
-
-    header {
+    .accordion-header {
       display: flex;
       justify-content: space-between;
       align-items: center;
@@ -1022,7 +1008,11 @@ const MuscleMeta = {
   `);
 
   // Fokus auf Suche (nur wenn Modal neu ist)
-  }
+  setTimeout(() => {
+    const s = document.getElementById('pickerSearch');
+    if (s) s.focus();
+  }, 0);
+}
 
 static setPickerMuscle(muscle) {
         this.picker.muscle = muscle;
