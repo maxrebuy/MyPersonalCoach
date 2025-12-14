@@ -1,0 +1,502 @@
+[
+  {
+    "id": "core_001",
+    "name": "Plank (klassisch)",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Unterarme unter den Schultern, Beine gestreckt. Körper bildet eine gerade Linie von Kopf bis Ferse. Bauch und Gesäß aktiv anspannen, kein Hohlkreuz, kein Durchhängen.",
+    "bild": null
+  },
+  {
+    "id": "core_002",
+    "name": "Side Plank",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Seitlich auf dem Unterarm abstützen, Schulter über dem Ellbogen. Beine gestreckt, Füße übereinander. Hüfte aktiv nach oben drücken und stabil halten.",
+    "bild": null
+  },
+  {
+    "id": "core_003",
+    "name": "Side Plank mit Hüftabduktion",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Aus dem Side Plank das obere Bein langsam anheben und absenken. Becken bleibt stabil, kein Verdrehen des Körpers.",
+    "bild": null
+  },
+  {
+    "id": "core_004",
+    "name": "Plank mit Armheben",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Aus der Plank-Position einen Arm langsam nach vorne heben. Hüfte und Schultern bleiben parallel zum Boden.",
+    "bild": null
+  },
+  {
+    "id": "core_005",
+    "name": "Plank mit Beinheben",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "In der Plank ein Bein gestreckt anheben. Gesäß aktiv, Becken bleibt ruhig, kein Hohlkreuz.",
+    "bild": null
+  },
+  {
+    "id": "core_006",
+    "name": "Dead Bug",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Rücken flach am Boden, Arme und Beine gestreckt nach oben. Gegengleichen Arm und Bein langsam absenken, Lendenwirbelsäule bleibt am Boden.",
+    "bild": null
+  },
+  {
+    "id": "core_007",
+    "name": "Bird Dog",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Vierfüßlerstand. Gegengleichen Arm und Bein strecken, Rücken bleibt neutral, kein Hohlkreuz.",
+    "bild": null
+  },
+  {
+    "id": "core_008",
+    "name": "Hanging Knee Raises",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Im Untergriff hängen, Beine gestreckt. Knie kontrolliert zur Brust ziehen, Becken leicht kippen, kein Schwung.",
+    "bild": null
+  },
+  {
+    "id": "core_009",
+    "name": "Hanging Leg Raises",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Aus dem Hang die gestreckten Beine bis mindestens Hüfthöhe anheben. Bewegung kontrolliert, kein Schwingen.",
+    "bild": null
+  },
+  {
+    "id": "core_010",
+    "name": "Toes-to-Bar",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Aus dem Hang Beine explosiv anheben, bis die Zehen die Stange berühren. Core aktiv, kontrolliertes Absenken.",
+    "bild": null
+  },
+  {
+    "id": "core_011",
+    "name": "Crunches (klassisch)",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Rücken flach am Boden, Beine angewinkelt. Oberkörper leicht anheben, Rippen Richtung Becken ziehen. Kein Ziehen am Nacken.",
+    "bild": null
+  },
+  {
+    "id": "core_012",
+    "name": "Reverse Crunches",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Rücken am Boden, Beine angewinkelt. Becken aktiv einrollen und Knie zur Brust ziehen. Bewegung kommt aus dem Bauch, nicht aus den Beinen.",
+    "bild": null
+  },
+  {
+    "id": "core_013",
+    "name": "Bicycle Crunches",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Gegengleichen Ellbogen zum Knie führen. Beine aktiv strecken, Rotation aus der Brustwirbelsäule, kein Reißen.",
+    "bild": null
+  },
+  {
+    "id": "core_014",
+    "name": "Russian Twists (Boden)",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Oberkörper leicht zurückgelehnt, Füße am Boden. Rotation kontrolliert von Seite zu Seite, Bauch aktiv gespannt.",
+    "bild": null
+  },
+  {
+    "id": "core_015",
+    "name": "Russian Twists (mit Gewicht)",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Wie klassischer Russian Twist, zusätzlich Gewicht vor dem Oberkörper halten. Rotation langsam und kontrolliert.",
+    "bild": null
+  },
+  {
+    "id": "core_016",
+    "name": "Sit-ups",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Füße fixiert, Oberkörper vollständig aufrichten. Bauch aktiv, nicht mit Hüftbeugern reißen.",
+    "bild": null
+  },
+  {
+    "id": "core_017",
+    "name": "V-Ups",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Arme und Beine gleichzeitig zur Körpermitte führen. Bewegung explosiv hoch, kontrolliert runter.",
+    "bild": null
+  },
+  {
+    "id": "core_018",
+    "name": "Hollow Hold",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Rücken flach am Boden, Arme und Beine leicht angehoben. Bauch maximal anspannen, kein Hohlkreuz.",
+    "bild": null
+  },
+  {
+    "id": "core_019",
+    "name": "Hollow Rocks",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Aus dem Hollow Hold kleine Vor- und Rückbewegungen. Spannung im Core durchgehend halten.",
+    "bild": null
+  },
+  {
+    "id": "core_020",
+    "name": "Mountain Climbers (kontrolliert)",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Plank-Position, Knie abwechselnd zur Brust ziehen. Hüfte stabil, Bewegung kontrolliert.",
+    "bild": null
+  },
+  {
+    "id": "core_021",
+    "name": "Mountain Climbers (dynamisch)",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Wie kontrollierte Variante, aber schneller. Core bleibt angespannt, kein Durchhängen.",
+    "bild": null
+  },
+  {
+    "id": "core_022",
+    "name": "Flutter Kicks",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Rücken flach am Boden, Beine gestreckt abwechselnd heben und senken. Unterer Rücken bleibt am Boden.",
+    "bild": null
+  },
+  {
+    "id": "core_023",
+    "name": "Scissor Kicks",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Gestreckte Beine kreuzen sich abwechselnd. Spannung im unteren Bauch konstant halten.",
+    "bild": null
+  },
+  {
+    "id": "core_024",
+    "name": "Leg Raises (Boden)",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Beine gestreckt anheben, Becken leicht einrollen. Kein Hohlkreuz beim Absenken.",
+    "bild": null
+  },
+  {
+    "id": "core_025",
+    "name": "Windshield Wipers (Boden)",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Beine angewinkelt oder gestreckt seitlich absenken. Schultern bleiben am Boden.",
+    "bild": null
+  },
+  {
+    "id": "core_026",
+    "name": "Cable Crunches",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Kabel über dem Kopf, Oberkörper einrollen. Bewegung aus der Wirbelsäule, nicht aus den Armen.",
+    "bild": null
+  },
+  {
+    "id": "core_027",
+    "name": "Kneeling Cable Crunches",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Kniend vor dem Kabelzug. Rippen Richtung Becken ziehen, kontrollierte Ausführung.",
+    "bild": null
+  },
+  {
+    "id": "core_028",
+    "name": "Cable Woodchopper (hoch → tief)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Rotation von oben nach unten. Hüfte stabil, Bewegung aus dem Core.",
+    "bild": null
+  },
+  {
+    "id": "core_029",
+    "name": "Cable Woodchopper (tief → hoch)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Rotation von unten nach oben. Spannung im gesamten Bewegungsradius halten.",
+    "bild": null
+  },
+  {
+    "id": "core_030",
+    "name": "Pallof Press",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Kabel seitlich, Arme nach vorne drücken. Rotation aktiv verhindern.",
+    "bild": null
+  },
+  {
+    "id": "core_031",
+    "name": "Ab Wheel Rollouts",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Knie oder Füße am Boden. Core maximal anspannen, Rücken bleibt neutral.",
+    "bild": null
+  },
+  {
+    "id": "core_032",
+    "name": "TRX Plank",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Füße im TRX, Unterarme am Boden. Instabilität aktiv ausgleichen.",
+    "bild": null
+  },
+  {
+    "id": "core_033",
+    "name": "TRX Pike",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Aus Plank Hüfte nach oben ziehen. Bewegung kontrolliert, Core durchgehend aktiv.",
+    "bild": null
+  },
+  {
+    "id": "core_034",
+    "name": "Farmer’s Walk",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Schwere Gewichte tragen. Aufrechte Haltung, Bauchspannung halten.",
+    "bild": null
+  },
+  {
+    "id": "core_035",
+    "name": "Suitcase Carry (einarmig)",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Ein Gewicht seitlich tragen. Rumpf aufrecht, kein Seitneigen.",
+    "bild": null
+  },
+  {
+    "id": "core_036",
+    "name": "Back Extensions",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Wirbelsäule neutral, Oberkörper kontrolliert anheben. Kein Überstrecken.",
+    "bild": null
+  },
+  {
+    "id": "core_037",
+    "name": "Reverse Hyperextensions",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Beine aus der Hüfte anheben. Rücken stabil, Bewegung kontrolliert.",
+    "bild": null
+  },
+  {
+    "id": "core_038",
+    "name": "Good Mornings (leicht)",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Hüftbeuge mit neutralem Rücken. Core aktiv zur Stabilisierung.",
+    "bild": null
+  },
+  {
+    "id": "core_039",
+    "name": "Bird Dog Hold",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Gegengleichen Arm und Bein gestreckt halten. Becken stabil, kein Wackeln.",
+    "bild": null
+  },
+  {
+    "id": "core_040",
+    "name": "Dead Bug mit Iso-Hold",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Abgesenkte Position kurz halten. Rücken bleibt am Boden.",
+    "bild": null
+  },
+  {
+    "id": "core_041",
+    "name": "L-Sit (Parallettes)",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Arme gestreckt abstützen, Beine parallel zum Boden. Core maximal angespannt.",
+    "bild": null
+  },
+  {
+    "id": "core_042",
+    "name": "Seated Knee Tucks",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Sitzend Knie zur Brust ziehen. Rücken leicht zurücklehnen.",
+    "bild": null
+  },
+  {
+    "id": "core_043",
+    "name": "Standing Cable Crunch",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Stehend Oberkörper einrollen. Bauch zieht Rippen nach unten.",
+    "bild": null
+  },
+  {
+    "id": "core_044",
+    "name": "Cable Anti-Rotation Hold",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Kabel seitlich halten, Position stabilisieren. Rotation verhindern.",
+    "bild": null
+  },
+  {
+    "id": "core_045",
+    "name": "Stir the Pot (Gymball)",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Unterarme auf Gymball, kleine Kreisbewegungen. Core bleibt angespannt.",
+    "bild": null
+  },
+  {
+    "id": "core_046",
+    "name": "Jackknife Crunches",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Oberkörper und Beine gleichzeitig zusammenführen. Kontrolle in beide Richtungen.",
+    "bild": null
+  },
+  {
+    "id": "core_047",
+    "name": "Heel Touches",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Seitliche Crunchbewegung im Liegen. Schräge Bauchmuskulatur aktivieren.",
+    "bild": null
+  },
+  {
+    "id": "core_048",
+    "name": "Standing Oblique Crunch (Kabel)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Seitlich einrollen gegen Kabelwiderstand. Hüfte bleibt stabil.",
+    "bild": null
+  },
+  {
+    "id": "core_049",
+    "name": "Plank Walkouts",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Aus dem Stand Hände nach vorne laufen bis zur Plank. Core stabil halten.",
+    "bild": null
+  },
+  {
+    "id": "core_050",
+    "name": "Isometrischer Plank Hold (max)",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Plank-Position so lange wie möglich halten. Technik hat Priorität vor Zeit.",
+    "bild": null
+  }
+]

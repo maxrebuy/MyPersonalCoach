@@ -1,0 +1,712 @@
+[
+  {
+    "id": "legs_001",
+    "name": "Kniebeuge (Langhantel, Back Squat)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Stange stabil, Brust hoch, Knie folgen den Zehen. Tief so weit, wie Spannung/Technik sauber bleibt.",
+    "bild": null
+  },
+  {
+    "id": "legs_002",
+    "name": "Kniebeuge (Langhantel, Front Squat)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Ellbogen hoch, Oberkörper aufrechter. Knie nach vorn ok, Fersen bleiben am Boden.",
+    "bild": null
+  },
+  {
+    "id": "legs_003",
+    "name": "Kniebeuge (Langhantel, High Bar)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Stange höher auf dem Trapez. Mehr Quad-Fokus, kontrolliert ablassen, sauber aus der Tiefe hoch.",
+    "bild": null
+  },
+  {
+    "id": "legs_004",
+    "name": "Kniebeuge (Langhantel, Low Bar)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Stange tiefer auf dem Rücken, Hüfte arbeitet mehr. Rücken bleibt gespannt, kein Einknicken.",
+    "bild": null
+  },
+  {
+    "id": "legs_005",
+    "name": "Box Squat (Langhantel)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Auf Box/Bank kontrolliert absetzen (nicht plumpsen), kurz Spannung halten, dann hochdrücken.",
+    "bild": null
+  },
+  {
+    "id": "legs_006",
+    "name": "Pause Squat (Langhantel)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Unten 1–2 Sekunden halten ohne Spannung zu verlieren. Dann explosiv, aber kontrolliert hoch.",
+    "bild": null
+  },
+  {
+    "id": "legs_007",
+    "name": "Bulgarian Split Squat (Kurzhantel)",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Hinterer Fuß erhöht. Vorderes Knie folgt Zehen, Oberkörper leicht nach vorn, volle Kontrolle.",
+    "bild": null
+  },
+  {
+    "id": "legs_008",
+    "name": "Ausfallschritte (Kurzhantel, gehend)",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Großer Schritt, Knie stabil. Hinteres Knie Richtung Boden, dann durch die Vorderferse hoch.",
+    "bild": null
+  },
+  {
+    "id": "legs_009",
+    "name": "Ausfallschritte (Kurzhantel, rückwärts)",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Rückwärts ist oft kniefreundlicher. Hüfte bleibt gerade, vorderes Knie stabil.",
+    "bild": null
+  },
+  {
+    "id": "legs_010",
+    "name": "Step-Ups (Kurzhantel)",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Komplett auf die Box steigen, oben kurz stabilisieren. Absteigen kontrolliert, nicht springen.",
+    "bild": null
+  },
+  {
+    "id": "legs_011",
+    "name": "Goblet Squat (Kurzhantel/Kettlebell)",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Gewicht vor der Brust. Brust hoch, Ellbogen innen, tief sauber, Knie nach außen führen.",
+    "bild": null
+  },
+  {
+    "id": "legs_012",
+    "name": "Hack Squat (Maschine)",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Rücken fest anlehnen. Knie folgen Zehen, nicht in die Knie „fallen“. Unten kontrolliert.",
+    "bild": null
+  },
+  {
+    "id": "legs_013",
+    "name": "Beinpresse (Maschine, 45°/Horizontal)",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Füße schulterbreit, Rücken bleibt an der Lehne. Tief nur so weit, dass Becken nicht kippt.",
+    "bild": null
+  },
+  {
+    "id": "legs_014",
+    "name": "Beinpresse (Maschine, enger Stand)",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Enger Stand für Quads. Knie sauber führen, keine innen/außen-Ausweichbewegungen.",
+    "bild": null
+  },
+  {
+    "id": "legs_015",
+    "name": "Beinpresse (Maschine, hoher Stand)",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Füße höher für mehr Posterior-Chain. Rücken/Becken stabil, kontrolliert ablassen.",
+    "bild": null
+  },
+  {
+    "id": "legs_016",
+    "name": "Beinstrecker (Maschine)",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Knieachse auf Maschinenachse. Oben kurz anspannen, runter langsam, nicht „knallen“.",
+    "bild": null
+  },
+  {
+    "id": "legs_017",
+    "name": "Beinstrecker (Maschine, einarmig)",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Ein Bein isoliert, saubere Linie. Ideal für Seitenunterschiede.",
+    "bild": null
+  },
+  {
+    "id": "legs_018",
+    "name": "Beinbeuger (Maschine, liegend)",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Hüfte bleibt auf dem Polster, keine Hohlkreuz-Schummelei. Runter langsam.",
+    "bild": null
+  },
+  {
+    "id": "legs_019",
+    "name": "Beinbeuger (Maschine, sitzend)",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Sitzend oft mehr Stretch. Oberkörper stabil, volle ROM, kontrollierte Negative.",
+    "bild": null
+  },
+  {
+    "id": "legs_020",
+    "name": "Beinbeuger (Maschine, stehend einbeinig)",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Becken gerade halten, kein Ausweichen. Langsam ablassen, oben kurz halten.",
+    "bild": null
+  },
+  {
+    "id": "legs_021",
+    "name": "Rumänisches Kreuzheben (Langhantel)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Hüfte nach hinten, Rücken neutral. Stange nah am Körper, Stretch in Hamstrings, nicht im Rücken.",
+    "bild": null
+  },
+  {
+    "id": "legs_022",
+    "name": "Rumänisches Kreuzheben (Kurzhantel)",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Wie LH-RDL: Hüfte zurück, Hanteln nah am Bein. Oben Gesäß anspannen, nicht überstrecken.",
+    "bild": null
+  },
+  {
+    "id": "legs_023",
+    "name": "Kreuzheben (Langhantel, konventionell)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Stange über Mittelfuß, Rücken gespannt, Lat aktiv. Boden wegdrücken, nicht „ziehen“.",
+    "bild": null
+  },
+  {
+    "id": "legs_024",
+    "name": "Kreuzheben (Langhantel, Sumo)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Breiter Stand, Schienbeine relativ aufrecht. Knie raus, Brust hoch, Hüfte nah an der Stange.",
+    "bild": null
+  },
+  {
+    "id": "legs_025",
+    "name": "Rack Pulls (Langhantel, aus Pins)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Start höher als Boden. Rücken/Lat fest, Stange nah. Fokus auf Hüftstreckung und Rücken-Spannung.",
+    "bild": null
+  },
+  {
+    "id": "legs_026",
+    "name": "Hip Hinge Good Mornings (Langhantel)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Leichtes Gewicht, Rücken neutral. Hüfte nach hinten, Knie weich, Bewegung kontrolliert.",
+    "bild": null
+  },
+  {
+    "id": "legs_027",
+    "name": "Pull-Throughs (Kabel)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Seil zwischen den Beinen, Hüfte nach hinten, dann Gesäß nach vorn. Rücken neutral, kein Schwung.",
+    "bild": null
+  },
+  {
+    "id": "legs_028",
+    "name": "Glute-Ham Raise (GHR)",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Körper gerade, aus Hamstrings hochziehen. Nicht in der Hüfte knicken, kontrolliert ablassen.",
+    "bild": null
+  },
+  {
+    "id": "legs_029",
+    "name": "Nordic Hamstring Curls (Körpergewicht)",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Knie fix, Körper gerade. Langsam nach vorn ablassen, mit Händen abfangen, sauber zurück.",
+    "bild": null
+  },
+  {
+    "id": "legs_030",
+    "name": "Hyperextensions (Rückenstrecker, Bein-/Glute-Fokus)",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Rücken neutral, Fokus Hüftstreckung. Oben Gesäß anspannen, nicht ins Hohlkreuz drücken.",
+    "bild": null
+  },
+  {
+    "id": "legs_031",
+    "name": "Kettlebell Swings",
+    "kategorie": "kettlebell",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Hinge, nicht Squat. Hüfte schnellt nach vorn, Arme nur Haken. Rücken neutral, Nacken locker.",
+    "bild": null
+  },
+  {
+    "id": "legs_032",
+    "name": "Sissy Squats (Körpergewicht)",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Quads brutal: Knie nach vorn, Körper bleibt lang. Langsam, kleine ROM ok, sicher ausführen.",
+    "bild": null
+  },
+  {
+    "id": "legs_033",
+    "name": "Wall Sit (Isometrisch)",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Rücken an die Wand, Knie ca. 90°. Ruhig atmen, Spannung halten, nicht im Becken kollabieren.",
+    "bild": null
+  },
+  {
+    "id": "legs_034",
+    "name": "Hack Squat (Kurzhantel, Heels-elevated Goblet)",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Fersen erhöht (Scheibe/Keil), Knie über Zehen ok. Quad-Fokus, Rücken stabil.",
+    "bild": null
+  },
+  {
+    "id": "legs_035",
+    "name": "Smith Squat (Maschine)",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Füße so stellen, dass Knie/Becken sauber laufen. Nicht „reinsetzen“, kontrolliert bewegen.",
+    "bild": null
+  },
+  {
+    "id": "legs_036",
+    "name": "Smith Split Squat",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Stange geführt, Stabilität hoch. Vorderes Bein arbeitet, Knie stabil, Bewegung langsam.",
+    "bild": null
+  },
+  {
+    "id": "legs_037",
+    "name": "Hackenschmidt/Schlitten-Schieben (Sled Push)",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Rumpf fest, kurze Schritte. Knie/Zehen in Linie. Perfekt für Beine ohne Gelenkstress.",
+    "bild": null
+  },
+  {
+    "id": "legs_038",
+    "name": "Schlitten-Ziehen rückwärts (Sled Drag, rückwärts)",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Rückwärts gehen, Quads-Pump. Aufrecht bleiben, saubere Schritte, konstant ziehen.",
+    "bild": null
+  },
+  {
+    "id": "legs_039",
+    "name": "Adduktoren (Maschine)",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Becken stabil, nicht mit Schwung. Langsam schließen, kurz halten, kontrolliert öffnen.",
+    "bild": null
+  },
+  {
+    "id": "legs_040",
+    "name": "Abduktoren (Maschine)",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Rumpf stabil, Beine kontrolliert nach außen. Oben kurz halten, langsam zurück.",
+    "bild": null
+  },
+  {
+    "id": "legs_041",
+    "name": "Wadenheben (Maschine, stehend)",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Voller Stretch unten, oben maximal hoch. Keine Bounce-Reps, kurze Pause oben.",
+    "bild": null
+  },
+  {
+    "id": "legs_042",
+    "name": "Wadenheben (Maschine, sitzend)",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Sitzend trifft oft mehr Soleus. Langsam, voller ROM, oben kurz halten.",
+    "bild": null
+  },
+  {
+    "id": "legs_043",
+    "name": "Wadenheben (Beinpresse)",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Nur Sprunggelenk bewegt sich. Knie leicht gebeugt, voller Stretch, sauber hochdrücken.",
+    "bild": null
+  },
+  {
+    "id": "legs_044",
+    "name": "Wadenheben (Kurzhantel, einbeinig)",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Ein Bein auf Kante/Step, KH in einer Hand. Voller Stretch unten, oben komplett hoch.",
+    "bild": null
+  },
+  {
+    "id": "legs_045",
+    "name": "Wadenheben (Körpergewicht, einbeinig)",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Auf Step, langsam hoch/runter. Oben kurz halten, keine schnellen Reps.",
+    "bild": null
+  },
+  {
+    "id": "legs_046",
+    "name": "Tibialis Raises (Schienbein, an Wand/Step)",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Fersen am Boden, Zehen Richtung Schienbein ziehen. Kontrolliert, brennt schnell.",
+    "bild": null
+  },
+  {
+    "id": "legs_047",
+    "name": "Single-Leg RDL (Kurzhantel)",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Einbeiniger Hinge, Hüfte bleibt gerade. Rücken neutral, Balance kontrolliert.",
+    "bild": null
+  },
+  {
+    "id": "legs_048",
+    "name": "Glute Bridge (Langhantel)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Füße fest, Rippen runter, oben Gesäß hart anspannen. Nicht ins Hohlkreuz drücken.",
+    "bild": null
+  },
+  {
+    "id": "legs_049",
+    "name": "Hip Thrust (Langhantel)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Schulterblätter auf Bank, Kinn leicht zur Brust. Oben Becken neutral, Gesäß anspannen.",
+    "bild": null
+  },
+  {
+    "id": "legs_050",
+    "name": "Hip Thrust (Maschine)",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Maschine stabilisiert. Oben kurz halten, kontrolliert ablassen, Becken neutral.",
+    "bild": null
+  },
+  {
+    "id": "legs_051",
+    "name": "Jump Squats (Körpergewicht)",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Explosiv abspringen, weich landen. Knie stabil, Hüfte aktiv.",
+    "bild": null
+  },
+  {
+    "id": "legs_052",
+    "name": "Box Jumps",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Beidbeinig explosiv auf die Box springen. Saubere, leise Landung.",
+    "bild": null
+  },
+  {
+    "id": "legs_053",
+    "name": "Broad Jumps",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Weitsprung aus dem Stand. Fokus Hüftexplosion.",
+    "bild": null
+  },
+  {
+    "id": "legs_054",
+    "name": "Kettlebell Jump Squats",
+    "kategorie": "kettlebell",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "KB vor dem Körper halten. Explosiv abspringen, kontrolliert landen.",
+    "bild": null
+  },
+  {
+    "id": "legs_055",
+    "name": "Trap-Bar Jump Deadlifts",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Leichtes Gewicht, explosiver Hüftstreckimpuls.",
+    "bild": null
+  },
+  {
+    "id": "legs_056",
+    "name": "Spanish Squats (Band)",
+    "kategorie": "band",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Band hinter den Knien. Sehr knie- und patellasehnenfreundlich.",
+    "bild": null
+  },
+  {
+    "id": "legs_057",
+    "name": "Reverse Sled Drags",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Rückwärts ziehen, Quad-Fokus. Ideal für Knie-Reha.",
+    "bild": null
+  },
+  {
+    "id": "legs_058",
+    "name": "Peterson Step-Ups",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Ferse erhöht, kontrollierte Knieextension. Stärkt VMO.",
+    "bild": null
+  },
+  {
+    "id": "legs_059",
+    "name": "Tempo Split Squats (5–0–5)",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Langsame Exzentrik und Konzentrik. Maximale Kontrolle.",
+    "bild": null
+  },
+  {
+    "id": "legs_060",
+    "name": "Single-Leg Box Squats",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Einbeinig zur Box absetzen. Kontrolle und Stabilität.",
+    "bild": null
+  },
+  {
+    "id": "legs_061",
+    "name": "Einbeinige Hip Thrusts",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Unilateraler Glute-Fokus. Becken stabil halten.",
+    "bild": null
+  },
+  {
+    "id": "legs_062",
+    "name": "Einbeinige Glute Bridges",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Ein Bein in der Luft. Volle Hüftstreckung.",
+    "bild": null
+  },
+  {
+    "id": "legs_063",
+    "name": "Cable Kickbacks (kontrolliert)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Gestrecktes Bein nach hinten führen. Kein Schwung.",
+    "bild": null
+  },
+  {
+    "id": "legs_064",
+    "name": "Frog Pumps",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Fußsohlen zusammen, kurze explosive Hüftstreckung.",
+    "bild": null
+  },
+  {
+    "id": "legs_065",
+    "name": "Isometrische Split Squat Holds",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Halten in unterer Position. Brutal für Stabilität.",
+    "bild": null
+  },
+  {
+    "id": "legs_066",
+    "name": "Donkey Calf Raises",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Vorgebeugt, Fokus Gastrocnemius. Großer Stretch.",
+    "bild": null
+  },
+  {
+    "id": "legs_067",
+    "name": "Wadenheben mit Tempo (5–2–5)",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Langsame Exzentrik, Halt oben. Maximale Zeit unter Spannung.",
+    "bild": null
+  },
+  {
+    "id": "legs_068",
+    "name": "Isometrische Wadenholds (oben)",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Halten auf den Zehenspitzen. Brutaler Wadenreiz.",
+    "bild": null
+  },
+  {
+    "id": "legs_069",
+    "name": "Seated Single-Leg Calf Raises",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Einbeinig, Fokus Soleus. Saubere Ausführung.",
+    "bild": null
+  },
+  {
+    "id": "legs_070",
+    "name": "Explosive Calf Jumps",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Kurze Bodenkontaktzeit. Schnellkraft für Waden/Achillessehne.",
+    "bild": null
+  },
+  {
+  "id": "legs_071",
+  "name": "Wadenheben stehend (Langhantel)",
+  "kategorie": "langhantel",
+  "saetze": 0,
+  "wdh": "0",
+  "startgewicht": 0,
+  "beschreibung": "Langhantel im Nacken wie bei einer Kniebeuge, Füße hüft- bis schulterbreit. Auf den Fußballen stehen, Fersen langsam und kontrolliert so tief wie möglich absenken (maximaler Stretch). Anschließend explosiv nach oben drücken, bis die Waden maximal kontrahiert sind. Oben 1–2 Sekunden halten, Knie leicht gebeugt lassen, kein Wippen oder Schwung aus der Hüfte.",
+  "bild": null
+}
+]

@@ -1,0 +1,407 @@
+[
+  {
+    "id": "shoulder_001",
+    "name": "Schulterdrücken (Langhantel, stehend)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Stabiler Stand, Gesäß und Core aktiv. Stange auf Schulterhöhe, Unterarme senkrecht. Vertikal nach oben drücken, Kopf leicht zurückführen. Oben kein Hohlkreuz, kontrolliert ablassen.",
+    "bild": null
+  },
+  {
+    "id": "shoulder_002",
+    "name": "Schulterdrücken (Langhantel, sitzend)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Aufrecht sitzen, Rücken neutral. Stange von Schulterhöhe nach oben drücken. Ellbogen leicht vor der Stange, Spannung im Core halten.",
+    "bild": null
+  },
+  {
+    "id": "shoulder_003",
+    "name": "Push Press",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Kurzer Dip aus den Knien, dann explosiver Beinstoß. Schwung nur zum Anstoßen, Schultern drücken aktiv weiter. Kontrolle beim Absenken.",
+    "bild": null
+  },
+  {
+    "id": "shoulder_004",
+    "name": "Schulterdrücken (Kurzhantel, sitzend)",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Hanteln auf Schulterhöhe, Handgelenke stabil. Senkrecht hochdrücken, oben Spannung halten, nicht komplett durchstrecken.",
+    "bild": null
+  },
+  {
+    "id": "shoulder_005",
+    "name": "Arnold Press",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Start Handflächen zum Körper. Beim Hochdrücken rotieren die Hanteln nach außen. Bewegung flüssig, Ellbogen bleiben unter den Hanteln.",
+    "bild": null
+  },
+  {
+    "id": "shoulder_006",
+    "name": "Machine Shoulder Press",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Geführte Bewegung, Rücken anlehnen. Aus der Schulter drücken, kein Durchstrecken der Ellbogen.",
+    "bild": null
+  },
+  {
+    "id": "shoulder_007",
+    "name": "Landmine Press",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Schräger Druckpfad. Core aktiv, Schulter bleibt stabil. Sehr gelenkschonend.",
+    "bild": null
+  },
+  {
+    "id": "shoulder_008",
+    "name": "Einarmiger Landmine Press",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Unilateral arbeiten, Becken und Core stabil. Schräg nach oben drücken, keine Rotation im Oberkörper.",
+    "bild": null
+  },
+
+  {
+    "id": "shoulder_009",
+    "name": "Seitheben (Kurzhantel)",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Arme leicht angewinkelt. Seitlich bis Schulterhöhe anheben, Schulter bleibt unten. Langsame Exzentrik.",
+    "bild": null
+  },
+  {
+    "id": "shoulder_010",
+    "name": "Seitheben sitzend",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Sitzend ohne Schwung. Volle Kontrolle über den gesamten Bewegungsweg.",
+    "bild": null
+  },
+  {
+    "id": "shoulder_011",
+    "name": "Seitheben Lean-Away",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Seitlich an Stütze lehnen. Größerer Stretch unten, konstante Spannung.",
+    "bild": null
+  },
+  {
+    "id": "shoulder_012",
+    "name": "Seitheben (Kabel, klassisch)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Kabel seitlich greifen. Arm im leichten Bogen anheben, konstante Spannung.",
+    "bild": null
+  },
+  {
+    "id": "shoulder_013",
+    "name": "Seitheben (Kabel, von hinten)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Griff hinter dem Körper. Großer Stretch unten, saubere Führung ohne Schwung.",
+    "bild": null
+  },
+  {
+    "id": "shoulder_014",
+    "name": "Seitheben (Maschine, einarmig)",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Drehpunkt exakt auf Schulterhöhe einstellen. Isoliert arbeiten, oben kurz halten.",
+    "bild": null
+  },
+  {
+    "id": "shoulder_015",
+    "name": "Seitheben (Iso-Hold oben)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "Zeit",
+    "startgewicht": 0,
+    "beschreibung": "Arm auf Schulterhöhe statisch halten. Schulter bleibt unten, konstante Spannung.",
+    "bild": null
+  },
+
+  {
+    "id": "shoulder_016",
+    "name": "Reverse Flys (Kurzhantel, Brust auf Bank)",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Brust liegt auf der Bank. Arme seitlich öffnen, Fokus hintere Schulter, kein Schwung.",
+    "bild": null
+  },
+  {
+    "id": "shoulder_017",
+    "name": "Reverse Flys (Maschine)",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Geführte Bewegung, Fokus hintere Schulter. Keine Zugdominanz.",
+    "bild": null
+  },
+  {
+    "id": "shoulder_018",
+    "name": "Cable Y-Raises",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Arme in Y-Form anheben. Fokus unterer/mittlerer Trapez, leichte Gewichte.",
+    "bild": null
+  },
+
+  {
+    "id": "shoulder_019",
+    "name": "Isometrischer Shrug Hold",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "Zeit",
+    "startgewicht": 0,
+    "beschreibung": "Schultern anheben und statisch halten. Nacken lang, kein Kreisen.",
+    "bild": null
+  },
+  {
+    "id": "shoulder_020",
+    "name": "Farmer’s Carry",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "Zeit",
+    "startgewicht": 0,
+    "beschreibung": "Schwere Gewichte tragen. Aufrechte Haltung, Trapez arbeitet statisch.",
+    "bild": null
+  },
+  {
+    "id": "shoulder_021",
+    "name": "Overhead Carry (einarmig)",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "Zeit",
+    "startgewicht": 0,
+    "beschreibung": "Gewicht über Kopf stabilisieren. Core aktiv, Schulter kontrolliert.",
+    "bild": null
+  },
+  {
+    "id": "shoulder_022",
+    "name": "Isometrischer Overhead Hold",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "Zeit",
+    "startgewicht": 0,
+    "beschreibung": "Langhantel über Kopf halten. Ellbogen nicht durchdrücken, Schulter aktiv stabilisieren.",
+    "bild": null
+  },
+
+  {
+    "id": "shoulder_023",
+    "name": "External Rotations (Kabel)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Ellbogen am Körper fixiert. Unterarm rotiert nach außen, langsam und kontrolliert.",
+    "bild": null
+  },
+  {
+    "id": "shoulder_024",
+    "name": "External Rotations (Band, 90°)",
+    "kategorie": "band",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Oberarm auf Schulterhöhe. Außenrotation kontrolliert, Fokus Rotatorenmanschette.",
+    "bild": null
+  },
+  {
+    "id": "shoulder_025",
+    "name": "Internal Rotations (Band)",
+    "kategorie": "band",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Ellbogen fixiert. Unterarm rotiert nach innen, kontrollierte Bewegung.",
+    "bild": null
+  },
+  {
+    "id": "shoulder_026",
+    "name": "Cuban Press",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Außenrotation bis 90°, dann leicht drücken. Sehr leichtes Gewicht, Technik vor Last.",
+    "bild": null
+  },
+  {
+    "id": "shoulder_027",
+    "name": "Scaption Raises",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Heben im 30°-Winkel vor dem Körper. Sehr schulterfreundlich.",
+    "bild": null
+  },
+  {
+    "id": "shoulder_028",
+    "name": "Wall Slides",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Rücken an der Wand, Arme hoch- und runterführen. Fokus Mobilität.",
+    "bild": null
+  },
+  {
+    "id": "shoulder_029",
+    "name": "Wall Angels",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Kontakt zur Wand halten. Saubere Schulterbewegung über gesamten ROM.",
+    "bild": null
+  },
+  {
+    "id": "shoulder_030",
+    "name": "Scapula Push-ups",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Arme gestreckt. Schulterblätter aktiv bewegen, Core stabil.",
+    "bild": null
+  },
+
+  {
+    "id": "shoulder_031",
+    "name": "Upright Rows (schulterfreundlich)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Weiter Griff, Zug nur bis untere Brust. Ellbogen nicht über Schulterhöhe.",
+    "bild": null
+  },
+  {
+    "id": "shoulder_032",
+    "name": "Machine Lateral Raise (beidarmig)",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Geführtes Seitheben. Konstante Spannung, kein Schwung.",
+    "bild": null
+  },
+  {
+    "id": "shoulder_033",
+    "name": "Cable Lateral Raise (Teil-ROM oben)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Arbeiten im oberen Drittel. Dauerhafte Spannung auf mittlerer Schulter.",
+    "bild": null
+  },
+  {
+    "id": "shoulder_034",
+    "name": "Cable Lateral Raise (Tempo 3-1-3)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Langsame konzentrische und exzentrische Phase. Technik vor Last.",
+    "bild": null
+  },
+  {
+    "id": "shoulder_035",
+    "name": "Isometrischer Lateral Hold (Kurzhantel)",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "Zeit",
+    "startgewicht": 0,
+    "beschreibung": "Hanteln auf Schulterhöhe statisch halten. Schulter bleibt unten.",
+    "bild": null
+  },
+  {
+    "id": "shoulder_036",
+    "name": "Bottom-Up Carry (Kettlebell)",
+    "kategorie": "kettlebell",
+    "saetze": 0,
+    "wdh": "Zeit",
+    "startgewicht": 0,
+    "beschreibung": "Kettlebell kopfüber tragen. Schulter und Griff maximal stabilisieren.",
+    "bild": null
+  },
+  {
+    "id": "shoulder_037",
+    "name": "Bottom-Up Overhead Hold (Kettlebell)",
+    "kategorie": "kettlebell",
+    "saetze": 0,
+    "wdh": "Zeit",
+    "startgewicht": 0,
+    "beschreibung": "KB über Kopf kopfüber halten. Core fest, Schulter maximal stabil.",
+    "bild": null
+  },
+  {
+    "id": "shoulder_038",
+    "name": "Shoulder CARs (Controlled Articular Rotations)",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Langsame, kontrollierte Schulterkreise. Fokus Mobilität und Kontrolle, kein Schwung.",
+    "bild": null
+  },
+  {
+    "id": "shoulder_039",
+    "name": "Isometrischer Lateral Press-Out (Band)",
+    "kategorie": "band",
+    "saetze": 0,
+    "wdh": "Zeit",
+    "startgewicht": 0,
+    "beschreibung": "Band seitlich wegdrücken und Position halten. Konstante Spannung.",
+    "bild": null
+  },
+  {
+    "id": "shoulder_040",
+    "name": "Overhead Stability Press (sehr leicht)",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Sehr leichtes Gewicht. Fokus reine Schulterstabilität, keine Maximalbelastung.",
+    "bild": null
+  }
+]

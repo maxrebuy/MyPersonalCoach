@@ -1,0 +1,402 @@
+[
+  {
+    "id": "chest_001",
+    "name": "Bankdrücken (Langhantel, flach)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Schulterblätter hinten/unten, kontrolliert zur unteren Brust. Füße fest, Spannung halten.",
+    "bild": null
+  },
+  {
+    "id": "chest_002",
+    "name": "Bankdrücken (Langhantel, Pause-Reps)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "1–2s Pause auf der Brust, Spannung halten, dann explosiv hochdrücken.",
+    "bild": null
+  },
+  {
+    "id": "chest_003",
+    "name": "Bankdrücken (Langhantel, eng)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Enger Griff, Brust/Trizeps. Handgelenke gerade, Schulter stabil halten.",
+    "bild": null
+  },
+  {
+    "id": "chest_004",
+    "name": "Bankdrücken (Langhantel, breit)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Breiter Griff, Fokus Brust. Kontrollierter ROM, kein Schulterhochziehen.",
+    "bild": null
+  },
+  {
+    "id": "chest_005",
+    "name": "Schrägbankdrücken (Langhantel, 15–30°)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Nicht zu steil, sonst übernimmt die Schulter. Stange Richtung obere Brust.",
+    "bild": null
+  },
+  {
+    "id": "chest_006",
+    "name": "Negativbankdrücken (Langhantel)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Unterer Brustfokus, kontrolliert ablassen, Ellbogen nicht flaren.",
+    "bild": null
+  },
+  {
+    "id": "chest_007",
+    "name": "Floor Press (Langhantel)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Boden begrenzt den ROM, Schulterfreundlich. Kurzer Stopp am Boden, dann drücken.",
+    "bild": null
+  },
+  {
+    "id": "chest_008",
+    "name": "Spoto Press (Langhantel)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Kurz über der Brust stoppen (ohne aufzulegen), Spannung halten, dann hochdrücken.",
+    "bild": null
+  },
+  {
+    "id": "chest_009",
+    "name": "Floor Press (Kurzhantel)",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Neutralgriff möglich, Schulter stabil. Hanteln kontrolliert bis zum Boden, dann drücken.",
+    "bild": null
+  },
+  {
+    "id": "chest_010",
+    "name": "Flachbankdrücken (Kurzhantel)",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Hanteln kontrolliert ablassen, oben Brust bewusst zusammenziehen, keine Schulter hoch.",
+    "bild": null
+  },
+  {
+    "id": "chest_011",
+    "name": "Schrägbankdrücken (Kurzhantel, 30°)",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Ellbogen unter den Hanteln, sauberer Druck. Nicht zu steil einstellen.",
+    "bild": null
+  },
+  {
+    "id": "chest_012",
+    "name": "Negativdrücken (Kurzhantel)",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Unterer Brustfokus, kontrollierte Negative, oben nicht durchknallen.",
+    "bild": null
+  },
+  {
+    "id": "chest_013",
+    "name": "Squeeze Press (Kurzhantel)",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Hanteln während des Drückens gegeneinander pressen. Konstante Spannung auf der Brust.",
+    "bild": null
+  },
+  {
+    "id": "chest_014",
+    "name": "Kurzhantel-Flys (flach)",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Leichter Ellbogenknick, Schulterblätter stabil. Tief nur so weit, wie es sauber bleibt.",
+    "bild": null
+  },
+  {
+    "id": "chest_015",
+    "name": "Brustpresse (Maschine, neutraler Griff)",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Griffe auf Brusthöhe, Schulter unten. Kontrolliert drücken, nicht ins Gelenk knallen.",
+    "bild": null
+  },
+  {
+    "id": "chest_016",
+    "name": "Hammer Strength Chest Press",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Stabiler schwerer Druck möglich. Schulterblätter gesetzt, ROM sauber ausnutzen.",
+    "bild": null
+  },
+  {
+    "id": "chest_017",
+    "name": "Pec Deck / Butterfly",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Brust hoch, Schulter unten. Arme kontrolliert zusammenführen, oben kurz halten.",
+    "bild": null
+  },
+  {
+    "id": "chest_018",
+    "name": "Cable Fly (hoch → tief)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Von oben nach unten zusammenführen. Leichter Vorlehnen, Brust aktiv zusammenziehen.",
+    "bild": null
+  },
+  {
+    "id": "chest_019",
+    "name": "Cable Fly (tief → hoch)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Untere Startposition, nach oben/innen führen. Oben kurz halten, nicht aus den Schultern ziehen.",
+    "bild": null
+  },
+  {
+    "id": "chest_020",
+    "name": "Cable Press (stehend)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Core stabil, Rippen unten. Drücken ohne ins Hohlkreuz zu fallen.",
+    "bild": null
+  },
+  {
+    "id": "chest_021",
+    "name": "Dips (Brustfokus)",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Leicht nach vorne lehnen, Ellbogen moderat. Tief nur so weit, wie die Schulter sauber bleibt.",
+    "bild": null
+  },
+  {
+    "id": "chest_022",
+    "name": "Liegestütze (klassisch)",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Körper gerade, Bauch fest. Brust zur Erde, oben sauber ausdrücken.",
+    "bild": null
+  },
+  {
+    "id": "chest_023",
+    "name": "Ring Push-ups",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Instabil, sehr fordernd. Ringe nah am Körper führen, Schulter stabil halten.",
+    "bild": null
+  },
+  {
+    "id": "chest_024",
+    "name": "Band Chest Press",
+    "kategorie": "band",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Band auf Brusthöhe fixieren. Core stabil, Ellbogen leicht unter der Handlinie.",
+    "bild": null
+  },
+  {
+    "id": "chest_025",
+    "name": "Band Flys",
+    "kategorie": "band",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Fly-Muster mit Band. Schulterblätter stabil, Arme kontrolliert zusammenführen.",
+    "bild": null
+  },
+  {
+    "id": "chest_026",
+    "name": "Low-to-High Cable Fly (einarmig)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Von unten nach oben führen. Fokus obere Brust, Schulter bleibt stabil.",
+    "bild": null
+  },
+  {
+    "id": "chest_027",
+    "name": "Incline Cable Press (30°)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Schräger Druck am Kabel. Konstante Spannung über den gesamten ROM.",
+    "bild": null
+  },
+  {
+    "id": "chest_028",
+    "name": "Einarmiger Cable Press",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Einarmig drücken, Core aktiv gegen Rotation stabilisieren.",
+    "bild": null
+  },
+  {
+    "id": "chest_029",
+    "name": "Reverse-Grip Bankdrücken (Langhantel)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Untergriff, Fokus obere Brust. Sehr kontrolliert ausführen.",
+    "bild": null
+  },
+  {
+    "id": "chest_030",
+    "name": "Tempo Bankdrücken (4–0–2)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "4 Sekunden runter, explosiv hoch. Technik- und Spannungsfokus.",
+    "bild": null
+  },
+  {
+    "id": "chest_031",
+    "name": "Deficit Push-ups",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Hände erhöht, tiefer Stretch in der unteren Brustposition.",
+    "bild": null
+  },
+  {
+    "id": "chest_032",
+    "name": "Paused Push-ups",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "1–2 Sekunden Pause unten. Spannung halten, kein Durchhängen.",
+    "bild": null
+  },
+  {
+    "id": "chest_033",
+    "name": "Ring Flys",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Sehr instabil, großer Stretch. Nur kontrolliert ausführen.",
+    "bild": null
+  },
+  {
+    "id": "chest_034",
+    "name": "Iso-Hold Cable Fly",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Fly-Position 3–5 Sekunden halten. Maximale Peak-Spannung.",
+    "bild": null
+  },
+  {
+    "id": "chest_035",
+    "name": "Deep Cable Fly mit Stretch-Pause",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Kurze Pause im Stretch, dann kontrolliert zusammenführen.",
+    "bild": null
+  },
+  {
+    "id": "chest_036",
+    "name": "Einarmige Kurzhantel-Flys (flach)",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Unilateral, Fokus Kontrolle und Symmetrie.",
+    "bild": null
+  },
+  {
+    "id": "chest_037",
+    "name": "Guillotine Press (Langhantel, leicht)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Zur oberen Brust/Halslinie ablassen. Nur mit leichtem Gewicht.",
+    "bild": null
+  },
+  {
+    "id": "chest_038",
+    "name": "Machine Chest Press mit Pause",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Kurze Pause in der unteren Position. Spannung bewusst halten.",
+    "bild": null
+  },
+  {
+    "id": "chest_039",
+    "name": "Pec Deck mit Iso-Hold",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Am Peak 2–3 Sekunden halten. Saubere Adduktion.",
+    "bild": null
+  },
+  {
+    "id": "chest_040",
+    "name": "Mechanical Drop Set Chest (Press → Fly)",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Erst Druckbewegung, direkt danach Fly-Variante ohne Pause.",
+    "bild": null
+  }
+]

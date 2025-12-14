@@ -1,0 +1,252 @@
+[
+  {
+    "id": "cardio_001",
+    "name": "Laufband Gehen (flach)",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "Zeit",
+    "startgewicht": 0,
+    "beschreibung": "Aufrechtes Gehen mit natürlicher Schrittlänge. Arme locker mitschwingen, Blick nach vorne. Puls moderat halten, ideal für Warm-up oder aktive Regeneration.",
+    "bild": null
+  },
+  {
+    "id": "cardio_002",
+    "name": "Laufband Gehen (Steigung)",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "Zeit",
+    "startgewicht": 0,
+    "beschreibung": "Gleiche Technik wie flaches Gehen, zusätzlich Steigung nutzen. Kein Festhalten am Geländer. Starker Reiz für Herz-Kreislauf und Gesäßmuskulatur bei geringer Gelenkbelastung.",
+    "bild": null
+  },
+  {
+    "id": "cardio_003",
+    "name": "Laufband Joggen",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "Zeit",
+    "startgewicht": 0,
+    "beschreibung": "Leichter Vortrieb aus dem Mittelfuß, Oberkörper aufrecht. Atem ruhig und rhythmisch. Geschwindigkeit so wählen, dass Technik sauber bleibt.",
+    "bild": null
+  },
+  {
+    "id": "cardio_004",
+    "name": "Outdoor Laufen",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "Zeit",
+    "startgewicht": 0,
+    "beschreibung": "Freies Laufen im eigenen Tempo. Auf lockere Schultern, stabile Körpermitte und gleichmäßige Atmung achten.",
+    "bild": null
+  },
+  {
+    "id": "cardio_005",
+    "name": "Fahrrad (Stationär)",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "Zeit",
+    "startgewicht": 0,
+    "beschreibung": "Sattelhöhe so einstellen, dass das Knie unten leicht gebeugt ist. Gleichmäßiger Tritt, keine ruckartigen Belastungen.",
+    "bild": null
+  },
+  {
+    "id": "cardio_006",
+    "name": "Fahrrad Outdoor",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "Zeit",
+    "startgewicht": 0,
+    "beschreibung": "Runder Tritt, konstante Trittfrequenz. Ideal für längere Cardioeinheiten mit geringer Gelenkbelastung.",
+    "bild": null
+  },
+  {
+    "id": "cardio_007",
+    "name": "Crosstrainer",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "Zeit",
+    "startgewicht": 0,
+    "beschreibung": "Fließende Bewegung von Armen und Beinen. Fersen bleiben auf den Pedalen, Core aktiv halten.",
+    "bild": null
+  },
+  {
+    "id": "cardio_008",
+    "name": "Ruderergometer",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "Zeit",
+    "startgewicht": 0,
+    "beschreibung": "Beine starten, dann Oberkörper, dann Arme. Rückweg umgekehrt. Kraftvoll, aber kontrolliert – kein Rundrücken.",
+    "bild": null
+  },
+  {
+    "id": "cardio_009",
+    "name": "Stepper",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "Zeit",
+    "startgewicht": 0,
+    "beschreibung": "Aufrechte Haltung, volle Schritte. Knie sauber führen, nicht nach innen kippen.",
+    "bild": null
+  },
+  {
+    "id": "cardio_010",
+    "name": "Treppensteigen",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "Zeit",
+    "startgewicht": 0,
+    "beschreibung": "Aktives Hochgehen, Fuß komplett aufsetzen. Gute Kombination aus Cardio und Beinkraft.",
+    "bild": null
+  },
+  {
+    "id": "cardio_011",
+    "name": "Seilspringen (Basic)",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "Zeit",
+    "startgewicht": 0,
+    "beschreibung": "Kleine Sprünge aus dem Fußballen. Ellbogen nah am Körper, Handgelenke rotieren das Seil.",
+    "bild": null
+  },
+  {
+    "id": "cardio_012",
+    "name": "Seilspringen (Intervall)",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "Intervalle",
+    "startgewicht": 0,
+    "beschreibung": "Kurze intensive Sprungphasen mit aktiven Pausen. Technik vor Tempo.",
+    "bild": null
+  },
+  {
+    "id": "cardio_013",
+    "name": "Battle Ropes",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "Intervalle",
+    "startgewicht": 0,
+    "beschreibung": "Stabile Kniebeuge-Position, Core fest. Wellen aus den Armen erzeugen, Rhythmus halten.",
+    "bild": null
+  },
+  {
+    "id": "cardio_014",
+    "name": "Sled Push / Schlitten schieben",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "Strecke",
+    "startgewicht": 0,
+    "beschreibung": "Körper leicht nach vorne geneigt, Arme gestreckt. Gleichmäßiger Druck aus den Beinen.",
+    "bild": null
+  },
+  {
+    "id": "cardio_015",
+    "name": "Sled Pull / Schlitten ziehen",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "Strecke",
+    "startgewicht": 0,
+    "beschreibung": "Rückwärts gehen oder ziehen mit aufrechtem Oberkörper. Knie kontrolliert beugen.",
+    "bild": null
+  },
+  {
+    "id": "cardio_016",
+    "name": "Burpees (kontrolliert)",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "Wdh",
+    "startgewicht": 0,
+    "beschreibung": "Saubere Abfolge aus Squat, Stütz, Sprung. Kein Durchhängen im Core.",
+    "bild": null
+  },
+  {
+    "id": "cardio_017",
+    "name": "Mountain Climbers",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "Zeit",
+    "startgewicht": 0,
+    "beschreibung": "Plank-Position, Knie dynamisch zur Brust ziehen. Becken stabil halten.",
+    "bild": null
+  },
+  {
+    "id": "cardio_018",
+    "name": "Jumping Jacks",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "Zeit",
+    "startgewicht": 0,
+    "beschreibung": "Rhythmische Ganzkörperbewegung. Landung weich über den Fußballen.",
+    "bild": null
+  },
+  {
+    "id": "cardio_019",
+    "name": "Kettlebell Swings",
+    "kategorie": "kettlebell",
+    "saetze": 0,
+    "wdh": "Wdh",
+    "startgewicht": 0,
+    "beschreibung": "Hüftscharnier, Rücken neutral. Explosiver Hüftstoß, Arme bleiben locker.",
+    "bild": null
+  },
+  {
+    "id": "cardio_020",
+    "name": "Air Bike",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "Zeit",
+    "startgewicht": 0,
+    "beschreibung": "Arme und Beine arbeiten synchron. Widerstand passt sich automatisch an – Intensität selbst steuern.",
+    "bild": null
+  },
+  {
+    "id": "cardio_021",
+    "name": "Spazierengehen (locker)",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "Zeit",
+    "startgewicht": 0,
+    "beschreibung": "Bewusstes Gehen zur aktiven Erholung. Puls niedrig, Atem ruhig.",
+    "bild": null
+  },
+  {
+    "id": "cardio_022",
+    "name": "Nordic Walking",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "Zeit",
+    "startgewicht": 0,
+    "beschreibung": "Aktiver Armeinsatz mit Stöcken. Aufrechte Haltung, gleichmäßiger Schritt.",
+    "bild": null
+  },
+  {
+    "id": "cardio_023",
+    "name": "Rudern (Intervall)",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "Intervalle",
+    "startgewicht": 0,
+    "beschreibung": "Kurze harte Züge, gefolgt von lockeren Phasen. Technik bleibt auch bei hoher Intensität sauber.",
+    "bild": null
+  },
+  {
+    "id": "cardio_024",
+    "name": "Shadowboxing",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "Zeit",
+    "startgewicht": 0,
+    "beschreibung": "Locker boxen ohne Kontakt. Core aktiv, Fußarbeit dynamisch. Sehr gutes Cardio ohne Geräte.",
+    "bild": null
+  },
+  {
+    "id": "cardio_025",
+    "name": "Mobility Flow (aktiv)",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "Zeit",
+    "startgewicht": 0,
+    "beschreibung": "Fließende Bewegungen mit leicht erhöhter Herzfrequenz. Ideal als Regenerations- oder Off-Day-Cardio.",
+    "bild": null
+  }
+]

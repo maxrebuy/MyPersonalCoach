@@ -1,0 +1,1002 @@
+[
+    {
+        "id": "bi_001",
+        "name": "Bizepscurls (Kurzhantel, stehend)",
+        "kategorie": "kurzhantel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Ellbogen fix am Körper, Oberarme ruhig. Voller Bewegungsradius, langsam ablassen.",
+        "bild": null
+    },
+    {
+        "id": "bi_002",
+        "name": "Bizepscurls (Kurzhantel, sitzend)",
+        "kategorie": "kurzhantel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Sitzend minimiert Schwung. Handgelenke neutral, kontrollierte Negative.",
+        "bild": null
+    },
+    {
+        "id": "bi_003",
+        "name": "Alternierende Curls (Kurzhantel)",
+        "kategorie": "kurzhantel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Eine Seite nach der anderen. Oben kurz anspannen, keine Schulterbewegung.",
+        "bild": null
+    },
+    {
+        "id": "bi_004",
+        "name": "Hammer Curls (Kurzhantel)",
+        "kategorie": "kurzhantel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Neutralgriff, Ellbogen eng. Fokus auf Brachialis/Unterarm, sauberer ROM.",
+        "bild": null
+    },
+    {
+        "id": "bi_005",
+        "name": "Cross-Body Hammer Curls",
+        "kategorie": "kurzhantel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Diagonal zur gegenüberliegenden Schulter curlen. Oberarm ruhig, kontrolliert ablassen.",
+        "bild": null
+    },
+    {
+        "id": "bi_006",
+        "name": "Langhantelcurls (gerade Stange)",
+        "kategorie": "langhantel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Rumpf stabil, Schulterblätter leicht zurück. Ellbogen stabil, kein Hüftschwung.",
+        "bild": null
+    },
+    {
+        "id": "bi_007",
+        "name": "Langhantelcurls (weiter Griff)",
+        "kategorie": "langhantel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Weiter Griff, Bewegung kontrolliert. Ellbogen nicht nach vorne werfen.",
+        "bild": null
+    },
+    {
+        "id": "bi_008",
+        "name": "Langhantelcurls (enger Griff)",
+        "kategorie": "langhantel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Enger Griff, Ellbogen nah am Körper. Oben bewusst anspannen.",
+        "bild": null
+    },
+    {
+        "id": "bi_009",
+        "name": "EZ-Bar Curls",
+        "kategorie": "sonstiges",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Gelenkschonender Griff. Kontrolliert ablassen, kein Schwung.",
+        "bild": null
+    },
+    {
+        "id": "bi_010",
+        "name": "EZ-Bar Reverse Curls",
+        "kategorie": "sonstiges",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Obergriff, Fokus Unterarm/Brachialis. Langsame Negative.",
+        "bild": null
+    },
+    {
+        "id": "bi_011",
+        "name": "Preacher Curls (EZ-Bar)",
+        "kategorie": "sonstiges",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Scottbank, Unterarme liegen auf. Unten nicht reißen.",
+        "bild": null
+    },
+    {
+        "id": "bi_012",
+        "name": "Preacher Curls (Kurzhantel, einarmig)",
+        "kategorie": "kurzhantel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Einarmig, Peak oben bewusst halten.",
+        "bild": null
+    },
+    {
+        "id": "bi_013",
+        "name": "Preacher Curls (Maschine)",
+        "kategorie": "maschine",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Konstante Spannung, langsame Negative.",
+        "bild": null
+    },
+    {
+        "id": "bi_014",
+        "name": "Cable Curls (gerade Stange)",
+        "kategorie": "kabel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Kabel hält Spannung konstant. Oben kurz halten.",
+        "bild": null
+    },
+    {
+        "id": "bi_015",
+        "name": "Cable Curls (Seil)",
+        "kategorie": "kabel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Seil am Ende leicht spreizen für Peak.",
+        "bild": null
+    },
+    {
+        "id": "bi_016",
+        "name": "Cable Curls (einarmig)",
+        "kategorie": "kabel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Einarmig, Ellbogen fix, saubere Linie.",
+        "bild": null
+    },
+    {
+        "id": "bi_017",
+        "name": "Machine Curls (Selectorized)",
+        "kategorie": "maschine",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Maschine mit gleichmäßiger Spannung.",
+        "bild": null
+    },
+    {
+        "id": "bi_018",
+        "name": "Machine Curls (einarmig)",
+        "kategorie": "maschine",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Einarmig für Seitenkorrektur.",
+        "bild": null
+    },
+    {
+        "id": "bi_019",
+        "name": "Chin-ups (Untergriff, Bizepsfokus)",
+        "kategorie": "koerpergewicht",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Untergriff, Brust zur Stange, volle Streckung unten.",
+        "bild": null
+    },
+    {
+        "id": "bi_020",
+        "name": "Chin-ups (gewichtete Variante)",
+        "kategorie": "koerpergewicht",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Zusatzgewicht, sauberer Zug ohne Kipping.",
+        "bild": null
+    },
+    {
+        "id": "bi_021",
+        "name": "Banded Curls (Widerstandsband)",
+        "kategorie": "band",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Bandspannung steigt nach oben. Ellbogen ruhig.",
+        "bild": null
+    },
+    {
+        "id": "bi_022",
+        "name": "Banded Hammer Curls",
+        "kategorie": "band",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Neutralgriff gegen Band, kontrolliert.",
+        "bild": null
+    },
+    {
+        "id": "bi_023",
+        "name": "Bottoms-Up Kettlebell Curls",
+        "kategorie": "kettlebell",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "KB kopfüber stabilisieren. Griffkraft brutal.",
+        "bild": null
+    },
+    {
+        "id": "bi_024",
+        "name": "Kettlebell Hammer Curls",
+        "kategorie": "kettlebell",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Neutralgriff, wenig Cheat, saubere Ausführung.",
+        "bild": null
+    },
+    {
+        "id": "bi_025",
+        "name": "Spider Curls (Kurzhantel)",
+        "kategorie": "kurzhantel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Brust auf Schrägbank, Arme hängen frei. Curl aus voller Dehnung, kein Schwung.",
+        "bild": null
+    },
+    {
+        "id": "bi_026",
+        "name": "Spider Curls (Langhantel)",
+        "kategorie": "langhantel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Langhantel aus hängender Position curlen. Konstante Spannung, kontrolliert ablassen.",
+        "bild": null
+    },
+    {
+        "id": "bi_027",
+        "name": "Incline Curls (Kurzhantel)",
+        "kategorie": "kurzhantel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Schrägbank, Arme leicht hinter dem Körper. Großer Stretch im unteren ROM.",
+        "bild": null
+    },
+    {
+        "id": "bi_028",
+        "name": "Incline Hammer Curls",
+        "kategorie": "kurzhantel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Neutralgriff auf der Schrägbank. Fokus Brachialis, saubere Ausführung.",
+        "bild": null
+    },
+    {
+        "id": "bi_029",
+        "name": "Drag Curls (Langhantel)",
+        "kategorie": "langhantel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Stange eng am Körper hochziehen. Ellbogen nach hinten, wenig Schulterarbeit.",
+        "bild": null
+    },
+    {
+        "id": "bi_030",
+        "name": "Drag Curls (Kurzhantel)",
+        "kategorie": "kurzhantel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Kurzhanteln eng am Oberkörper führen. Reduziert Schwung, hohe Spannung.",
+        "bild": null
+    },
+    {
+        "id": "bi_031",
+        "name": "Bayesian Cable Curls (einarmig)",
+        "kategorie": "kabel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Kabel hinter dem Körper. Curl aus maximaler Dehnung starten.",
+        "bild": null
+    },
+    {
+        "id": "bi_032",
+        "name": "High Cable Curls (beidarmig)",
+        "kategorie": "kabel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Kabelzüge auf Schulterhöhe. Curl zur Schläfe, Peak oben halten.",
+        "bild": null
+    },
+    {
+        "id": "bi_033",
+        "name": "High Cable Curls (einarmig)",
+        "kategorie": "kabel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Einarmige High-Cable-Variante. Fokus Symmetrie und Peak-Kontraktion.",
+        "bild": null
+    },
+    {
+        "id": "bi_034",
+        "name": "Cable Hammer Curls (Seil)",
+        "kategorie": "kabel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Neutralgriff am Seil. Trainiert Brachialis und Unterarm.",
+        "bild": null
+    },
+    {
+        "id": "bi_035",
+        "name": "Cable Preacher Curls",
+        "kategorie": "kabel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Scottbank-Position am Kabelzug. Gleichmäßige Spannung über den gesamten ROM.",
+        "bild": null
+    },
+    {
+        "id": "bi_036",
+        "name": "Reverse Curls (Langhantel)",
+        "kategorie": "sonstiges",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Obergriff an der Langhantel. Fokus Unterarme und Brachialis.",
+        "bild": null
+    },
+    {
+        "id": "bi_037",
+        "name": "Reverse Curls (Kabel)",
+        "kategorie": "kabel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Reverse Grip am Kabelzug. Konstante Spannung, kontrollierte Negative.",
+        "bild": null
+    },
+    {
+        "id": "bi_038",
+        "name": "Reverse Curls (Maschine)",
+        "kategorie": "maschine",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Maschinencurls im Obergriff. Schonend für Handgelenke.",
+        "bild": null
+    },
+    {
+        "id": "bi_039",
+        "name": "Maschinen-Scottcurls (enger Griff)",
+        "kategorie": "maschine",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Enger Griff an der Scottmaschine. Fokus innerer Bizepskopf.",
+        "bild": null
+    },
+    {
+        "id": "bi_040",
+        "name": "Maschinen-Scottcurls (weiter Griff)",
+        "kategorie": "maschine",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Weiter Griff an der Scottmaschine. Mehr Belastung äußerer Bizepskopf.",
+        "bild": null
+    },
+    {
+        "id": "bi_041",
+        "name": "Maschinen-Bizepscurls unilateral",
+        "kategorie": "maschine",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Einarmig an der Maschine. Ideal zum Ausgleich von Kraftunterschieden.",
+        "bild": null
+    },
+    {
+        "id": "bi_042",
+        "name": "Maschinen-Bizepscurls mit Iso-Hold",
+        "kategorie": "maschine",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Oben 2–3 Sekunden halten. Maximale Spannung im Peak.",
+        "bild": null
+    },
+    {
+        "id": "bi_043",
+        "name": "Konzentrationscurls stehend",
+        "kategorie": "kurzhantel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Einarmig stehend curlen. Fokus auf saubere Kontraktion.",
+        "bild": null
+    },
+    {
+        "id": "bi_044",
+        "name": "Konzentrationscurls sitzend",
+        "kategorie": "kurzhantel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Ellbogen am Oberschenkel fixiert. Strikte Isolation.",
+        "bild": null
+    },
+    {
+        "id": "bi_045",
+        "name": "Isometrische Cable Curls",
+        "kategorie": "kabel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Curl-Position bei ca. 90° halten. Statische Spannung.",
+        "bild": null
+    },
+    {
+        "id": "bi_046",
+        "name": "Isometrische Kurzhantel-Curls",
+        "kategorie": "kurzhantel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Kurzhanteln auf halber Höhe halten. Zeit unter Spannung maximieren.",
+        "bild": null
+    },
+    {
+        "id": "bi_047",
+        "name": "Partial Curls (oberer Bewegungsradius)",
+        "kategorie": "sonstiges",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Teilbewegung im oberen Drittel. Fokus Peak-Kontraktion.",
+        "bild": null
+    },
+    {
+        "id": "bi_048",
+        "name": "Partial Curls (unterer Bewegungsradius)",
+        "kategorie": "sonstiges",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Teilbewegung aus maximaler Dehnung. Hoher Stretch-Reiz.",
+        "bild": null
+    },
+    {
+        "id": "bi_049",
+        "name": "Langsame Negative Curls",
+        "kategorie": "sonstiges",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Exzentrische Phase 5 Sekunden ablassen. Sehr hoher Muskelreiz.",
+        "bild": null
+    },
+    {
+        "id": "bi_050",
+        "name": "21s Curls (Langhantel oder Kurzhantel)",
+        "kategorie": "sonstiges",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "7 untere, 7 obere, 7 volle Wiederholungen ohne Pause.",
+        "bild": null
+    },
+    {
+        "id": "bi_051",
+        "name": "Zottman Curls (Kurzhantel)",
+        "kategorie": "kurzhantel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Hoch curlen im Untergriff, oben drehen und im Obergriff ablassen. Bizeps und Unterarme.",
+        "bild": null
+    },
+    {
+        "id": "bi_052",
+        "name": "Zottman Hammer Curls",
+        "kategorie": "kurzhantel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Neutral hochziehen, oben rotieren und kontrolliert im Obergriff ablassen.",
+        "bild": null
+    },
+    {
+        "id": "bi_053",
+        "name": "Scottcurls (Kurzhantel, beidarmig)",
+        "kategorie": "kurzhantel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Beide Arme gleichzeitig auf der Scottbank. Strikte Ausführung ohne Schwung.",
+        "bild": null
+    },
+    {
+        "id": "bi_054",
+        "name": "Scottcurls (Kabel, einarmig)",
+        "kategorie": "kabel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Einarmig am Kabel in Scottbank-Position. Konstante Spannung über den gesamten ROM.",
+        "bild": null
+    },
+    {
+        "id": "bi_055",
+        "name": "Low Cable Curls (beidarmig)",
+        "kategorie": "kabel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Kabelzug von unten, Stange oder Seil. Ellbogen fix, gleichmäßiger Zug.",
+        "bild": null
+    },
+    {
+        "id": "bi_056",
+        "name": "Low Cable Curls (einarmig)",
+        "kategorie": "kabel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Einarmige Variante für saubere Linie und Fokus auf Symmetrie.",
+        "bild": null
+    },
+    {
+        "id": "bi_057",
+        "name": "Cable Curls mit externer Rotation",
+        "kategorie": "kabel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Während des Hochcurlens Hand leicht nach außen rotieren. Betonung Peak.",
+        "bild": null
+    },
+    {
+        "id": "bi_058",
+        "name": "Behind-the-Back Cable Curls",
+        "kategorie": "kabel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Kabel hinter dem Körper. Sehr großer Stretch im unteren Bewegungsradius.",
+        "bild": null
+    },
+    {
+        "id": "bi_059",
+        "name": "Maschinen-Bizepscurls (neutraler Griff)",
+        "kategorie": "maschine",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Neutraler Griff an der Maschine. Gelenkschonend, Fokus Brachialis.",
+        "bild": null
+    },
+    {
+        "id": "bi_060",
+        "name": "Maschinen-Bizepscurls (einarmig, Iso)",
+        "kategorie": "maschine",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Ein Arm arbeitet, der andere hält isometrisch. Hohe Muskelspannung.",
+        "bild": null
+    },
+    {
+        "id": "bi_061",
+        "name": "Langhantelcurls mit Pause unten",
+        "kategorie": "langhantel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Jede Wiederholung startet aus totem Punkt. Kein Stretch-Reflex.",
+        "bild": null
+    },
+    {
+        "id": "bi_062",
+        "name": "Kurzhantelcurls mit Pause oben",
+        "kategorie": "kurzhantel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Oben 2–3 Sekunden halten. Fokus auf Peak-Kontraktion.",
+        "bild": null
+    },
+    {
+        "id": "bi_063",
+        "name": "Isometrische Chin-up Holds",
+        "kategorie": "koerpergewicht",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Untergriff, Kinn über der Stange halten. Statische Spannung für Bizeps.",
+        "bild": null
+    },
+    {
+        "id": "bi_064",
+        "name": "Negative Chin-ups (Untergriff)",
+        "kategorie": "koerpergewicht",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Oben starten und langsam ablassen (5–8 Sekunden). Exzentrischer Fokus.",
+        "bild": null
+    },
+    {
+        "id": "bi_065",
+        "name": "Banded Curls mit Iso-Hold",
+        "kategorie": "band",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Bandcurls mit Halt oben. Konstante Spannung über den gesamten Satz.",
+        "bild": null
+    },
+    {
+        "id": "bi_066",
+        "name": "Banded Reverse Curls",
+        "kategorie": "band",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Obergriff gegen Band. Fokus Unterarme und Brachialis.",
+        "bild": null
+    },
+    {
+        "id": "bi_067",
+        "name": "Kettlebell Offset Curls",
+        "kategorie": "kettlebell",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Asymmetrische Belastung der KB. Hohe Anforderungen an Stabilität.",
+        "bild": null
+    },
+    {
+        "id": "bi_068",
+        "name": "Kettlebell Preacher Curls",
+        "kategorie": "kettlebell",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Scottbank-Position mit Kettlebell. Strikte Isolation.",
+        "bild": null
+    },
+    {
+        "id": "bi_069",
+        "name": "Fat-Grip Kurzhantelcurls",
+        "kategorie": "sonstiges",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Verdickter Griff erhöht Unterarm- und Griffkraftanforderung.",
+        "bild": null
+    },
+    {
+        "id": "bi_070",
+        "name": "Fat-Grip Langhantelcurls",
+        "kategorie": "sonstiges",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Langhantel mit dickem Griff. Mehr Stabilisationsarbeit.",
+        "bild": null
+    },
+    {
+        "id": "bi_071",
+        "name": "Tempo Curls (3–1–3)",
+        "kategorie": "sonstiges",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "3 Sek. hoch, 1 Sek. halten, 3 Sek. ablassen. Maximale Kontrolle.",
+        "bild": null
+    },
+    {
+        "id": "bi_072",
+        "name": "Mechanical Drop Set Curls",
+        "kategorie": "sonstiges",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Griff/Winkel wechseln ohne Pause. Hohe Ermüdung.",
+        "bild": null
+    },
+    {
+        "id": "bi_073",
+        "name": "Cable Curls mit Overhand-Start",
+        "kategorie": "kabel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Start im Obergriff, während der Bewegung in Untergriff drehen.",
+        "bild": null
+    },
+    {
+        "id": "bi_074",
+        "name": "Seated Incline Cable Curls",
+        "kategorie": "kabel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Sitzend auf Schrägbank, Kabel hinter dem Körper. Konstanter Stretch.",
+        "bild": null
+    },
+    {
+        "id": "bi_075",
+        "name": "Bizepscurls mit exzentrischem Fokus",
+        "kategorie": "sonstiges",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Normales Hochcurlen, exzentrische Phase bewusst sehr langsam.",
+        "bild": null
+    },
+    {
+        "id": "bi_076",
+        "name": "Seated Zottman Curls",
+        "kategorie": "kurzhantel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Sitzend ausgeführte Zottman Curls. Mehr Kontrolle, weniger Schwung.",
+        "bild": null
+    },
+    {
+        "id": "bi_077",
+        "name": "Alternierende Hammer Curls mit Rotation",
+        "kategorie": "kurzhantel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Hammergriff hochziehen, oben in Supination rotieren.",
+        "bild": null
+    },
+    {
+        "id": "bi_078",
+        "name": "Incline Curls mit Iso-Hold",
+        "kategorie": "kurzhantel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Auf der Schrägbank oben 2–3 Sekunden halten. Starker Peak-Reiz.",
+        "bild": null
+    },
+    {
+        "id": "bi_079",
+        "name": "Langhantelcurls mit Ketten",
+        "kategorie": "sonstiges",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Variable Last durch Ketten. Mehr Spannung im oberen Bewegungsbereich.",
+        "bild": null
+    },
+    {
+        "id": "bi_080",
+        "name": "Langhantelcurls mit Widerstandsband",
+        "kategorie": "sonstiges",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Band an Langhantel befestigt. Progressiver Widerstand über den ROM.",
+        "bild": null
+    },
+    {
+        "id": "bi_081",
+        "name": "Cable Curls mit Pause unten",
+        "kategorie": "kabel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Kurze Pause im Stretch, dann explosiv curlen.",
+        "bild": null
+    },
+    {
+        "id": "bi_082",
+        "name": "Cable Curls mit Pause oben",
+        "kategorie": "kabel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Oben 2 Sekunden halten. Fokus auf Peak-Kontraktion.",
+        "bild": null
+    },
+    {
+        "id": "bi_083",
+        "name": "Cross-Body Cable Curls",
+        "kategorie": "kabel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Diagonal zum gegenüberliegenden Schultergelenk curlen.",
+        "bild": null
+    },
+    {
+        "id": "bi_084",
+        "name": "Maschinen-Curls mit Teilwiederholungen",
+        "kategorie": "maschine",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Teilbewegungen im ermüdeten Zustand. Hoher metabolischer Stress.",
+        "bild": null
+    },
+    {
+        "id": "bi_085",
+        "name": "Maschinen-Curls mit Drop Set",
+        "kategorie": "maschine",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Gewicht reduzieren ohne Pause. Maximale Ermüdung.",
+        "bild": null
+    },
+    {
+        "id": "bi_086",
+        "name": "Einarmige Langhantelcurls (Landmine)",
+        "kategorie": "sonstiges",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Landmine-Setup, einarmig curlen. Ungewöhnlicher Zugwinkel.",
+        "bild": null
+    },
+    {
+        "id": "bi_087",
+        "name": "Landmine Hammer Curls",
+        "kategorie": "sonstiges",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Neutraler Griff an der Landmine. Hohe Stabilitätsanforderung.",
+        "bild": null
+    },
+    {
+        "id": "bi_088",
+        "name": "Chin-ups mit Pause oben",
+        "kategorie": "koerpergewicht",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Untergriff, oben 2 Sekunden halten. Maximale Bizepsaktivierung.",
+        "bild": null
+    },
+    {
+        "id": "bi_089",
+        "name": "Chin-ups mit langsamer Exzentrik",
+        "kategorie": "koerpergewicht",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Langsame Abwärtsbewegung (5–8 Sekunden). Exzentrischer Fokus.",
+        "bild": null
+    },
+    {
+        "id": "bi_090",
+        "name": "Banded Preacher Curls",
+        "kategorie": "band",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Scottbank mit Widerstandsband. Progressive Spannung.",
+        "bild": null
+    },
+    {
+        "id": "bi_091",
+        "name": "Banded Bayesian Curls",
+        "kategorie": "band",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Band hinter dem Körper fixieren. Starker Stretch-Reiz.",
+        "bild": null
+    },
+    {
+        "id": "bi_092",
+        "name": "Kettlebell Curls mit Tempo",
+        "kategorie": "kettlebell",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Langsame Tempo-Vorgabe für maximale Kontrolle.",
+        "bild": null
+    },
+    {
+        "id": "bi_093",
+        "name": "Kettlebell Curls mit Iso-Hold",
+        "kategorie": "kettlebell",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Oben halten, dann kontrolliert ablassen.",
+        "bild": null
+    },
+    {
+        "id": "bi_094",
+        "name": "Fat-Grip Cable Curls",
+        "kategorie": "sonstiges",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Verdickter Griff am Kabelzug. Griffkraftlimitierend.",
+        "bild": null
+    },
+    {
+        "id": "bi_095",
+        "name": "Fat-Grip Machine Curls",
+        "kategorie": "sonstiges",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Maschine mit dickem Griff. Mehr Unterarmbeteiligung.",
+        "bild": null
+    },
+    {
+        "id": "bi_096",
+        "name": "Tempo Chin-ups (3–1–3)",
+        "kategorie": "koerpergewicht",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Kontrolliertes Tempo bei Chin-ups. Maximale Zeit unter Spannung.",
+        "bild": null
+    },
+    {
+        "id": "bi_097",
+        "name": "21s Cable Curls",
+        "kategorie": "kabel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "21er-System am Kabelzug. Brutaler Pump.",
+        "bild": null
+    },
+    {
+        "id": "bi_098",
+        "name": "Mechanical Drop Set Cable Curls",
+        "kategorie": "kabel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Griff/Winkel wechseln ohne Pause. Extreme Ermüdung.",
+        "bild": null
+    },
+    {
+        "id": "bi_099",
+        "name": "Supinations-Curls (Kurzhantel)",
+        "kategorie": "kurzhantel",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Während des Hochcurlens aktiv in Supination drehen.",
+        "bild": null
+    },
+    {
+        "id": "bi_100",
+        "name": "Isometrische Bizeps-Holds (90°)",
+        "kategorie": "sonstiges",
+        "saetze": 0,
+        "wdh": "0",
+        "startgewicht": 0,
+        "beschreibung": "Halten bei ca. 90° Ellbogenwinkel. Maximale statische Spannung.",
+        "bild": null
+    }
+]

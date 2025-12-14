@@ -1,0 +1,603 @@
+[
+  {
+    "id": "tri_001",
+    "name": "Trizepsdrücken (Kabel, Seil)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Aufrecht stehen, Rippen runter, Gesäß leicht anspannen. Ellbogen eng am Oberkörper fixieren (nicht nach vorne wandern). Seil von Brusthöhe nach unten drücken, unten Arme strecken ohne ins Gelenk zu knallen. Am Ende das Seil leicht nach außen spreizen, um den Trizeps sauber zu verkürzen. Kontrolliert bis ca. 90° Ellbogenwinkel zurück, ohne Schulter hochzuziehen.",
+    "bild": null
+  },
+  {
+    "id": "tri_002",
+    "name": "Trizepsdrücken (Kabel, gerade Stange)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Stand stabil, Knie weich, Core fest. Griff schulterbreit, Handgelenke gerade. Ellbogen bleiben eng und ruhig. Stange nach unten drücken bis fast volle Streckung, unten kurz halten. Langsam zurück bis Unterarme etwa parallel zum Boden, ohne den Oberarm nach vorne zu schieben.",
+    "bild": null
+  },
+  {
+    "id": "tri_003",
+    "name": "Trizepsdrücken (Kabel, V-Griff)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Wie klassisches Pushdown, aber mit V-Griff für neutralere Handposition. Schulterblätter leicht nach hinten/unten, Nacken lang. Ellbogen am Körper fixieren. Drücken, bis der Trizeps komplett anspannt; kontrolliert zurück, kein Schwung aus dem Oberkörper.",
+    "bild": null
+  },
+  {
+    "id": "tri_004",
+    "name": "Einarmiges Trizepsdrücken (Kabel, Griff)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Seitlich zum Kabel stehen, Griff in einer Hand. Oberarm eng am Körper, Ellbogen zeigt nach hinten. Unterarm streckt nach unten/hinten, bis der Arm fast gerade ist. Oben Schulter tief halten, kein Ausweichen über Rumpfrotation. Langsam zurück, bis ca. 90° Ellbogenwinkel.",
+    "bild": null
+  },
+  {
+    "id": "tri_005",
+    "name": "Trizepsdrücken (Kabel, Reverse Grip / Untergriff)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Stange im Untergriff fassen (Handflächen nach oben). Ellbogen sehr eng halten, Schulter bleibt unten. Drücken bis fast volle Streckung, unten kurz anspannen. Kontrolliert zurück; der Untergriff zwingt dich zu sauberer Ellbogenposition – kein Vorlehnen/Schwingen.",
+    "bild": null
+  },
+  {
+    "id": "tri_006",
+    "name": "Trizepsdrücken (Kabel, Seil, Fokus langer Kopf – Ellbogen leicht vor dem Körper)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Leicht nach vorne lehnen, Ellbogen minimal vor der Körperlinie (nicht aus dem Schultergelenk schieben). Core fest, Rücken neutral. Seil nach unten drücken, unten Seil auseinanderführen. Rückweg kontrolliert bis knapp vor den Brustkorb, ohne dass die Schultern nach vorne kippen.",
+    "bild": null
+  },
+  {
+    "id": "tri_007",
+    "name": "Trizepsdrücken (Kabel, Seil, 1½-Wiederholungen)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Eine Wiederholung = ganz runter drücken, halb hoch (bis ca. 90°), wieder runter, dann ganz hoch kontrolliert. Ellbogen bleiben fix, Körper bleibt still. Ziel: mehr Zeit unter Spannung im starken Bereich, ohne Gewicht zu erhöhen.",
+    "bild": null
+  },
+  {
+    "id": "tri_008",
+    "name": "Trizepsdrücken (Kabel, Iso-Hold unten)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Pushdown normal ausführen, aber unten 2–3 Sekunden halten. Fokus: Arm fast gestreckt, Schulter unten, Handgelenk neutral. Danach langsam zurückführen. Kein Nachfedern im Ellbogen.",
+    "bild": null
+  },
+  {
+    "id": "tri_009",
+    "name": "Trizepsdrücken (Kabel, Tempo 3–1–3)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "3 Sekunden drücken, unten 1 Sekunde halten, 3 Sekunden zurück. Ellbogen bleiben wie angenagelt am Körper. Gewicht so wählen, dass du nicht ins Wackeln/Schwingen kommst.",
+    "bild": null
+  },
+  {
+    "id": "tri_010",
+    "name": "Trizepsdrücken (Kabel, Overhead-Setup am hohen Kabel – Seil)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Zum Kabel weggehen, Seil über Kopf halten. Ellbogen zeigen nach vorne/oben und bleiben eng. Aus dem Ellbogen strecken, bis die Arme fast gerade sind. Core fest, Rippen runter (kein Hohlkreuz). Langsam zurück in die Dehnung, ohne Ellbogen auseinanderdriften zu lassen.",
+    "bild": null
+  },
+  {
+    "id": "tri_011",
+    "name": "Overhead Trizepsstrecken (Kabel, Seil, kniend)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Kniend vor dem hohen Kabel, Seil hinter/über dem Kopf. Ellbogen eng, Oberarme möglichst still. Aus dem Ellbogen strecken, bis Trizeps voll arbeitet. Rücken neutral, Gesäß leicht anspannen. Kontrolliert zurück in die Dehnung, ohne in der LWS zu überstrecken.",
+    "bild": null
+  },
+  {
+    "id": "tri_012",
+    "name": "Einarmiges Overhead Trizepsstrecken (Kabel)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Griff am hohen Kabel, Arm über Kopf. Ellbogen zeigt nach vorn, Oberarm bleibt nahe am Kopf. Strecken bis fast gerade, oben kurz halten. Langsam ablassen, bis du die Dehnung im langen Trizepskopf spürst. Kein Ausweichen über Seitneigung.",
+    "bild": null
+  },
+  {
+    "id": "tri_013",
+    "name": "Trizepsstrecken (Kabel, über Kopf, Oberkörper leicht vorgebeugt)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Leicht nach vorne beugen, so dass die Arme in einer stabilen Linie arbeiten. Ellbogen eng, nicht auseinander. Strecken aus dem Ellbogen, Schulter bleibt unten. Rückweg kontrolliert, Dehnung nutzen, aber nicht in Schulterstress kippen.",
+    "bild": null
+  },
+  {
+    "id": "tri_014",
+    "name": "Trizeps-Kickbacks (Kabel, einarmig)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Hüftscharnier, Rücken neutral, Oberarm parallel zum Boden. Ellbogen bleibt oben fix, Unterarm streckt nach hinten bis fast gerade. Oben 1 Sekunde halten, dann langsam zurück. Ziel ist Kontrolle – kein Schwung, kein Schulterrudern.",
+    "bild": null
+  },
+  {
+    "id": "tri_015",
+    "name": "Trizepsstrecken (Kabel, liegend / „Cable Skullcrusher“ auf Bank)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Bank vor den Kabelturm, Griff/Seil in den Händen, Arme nach oben. Ellbogen zeigen zur Decke und bleiben eng. Unterarme Richtung Stirn/oberer Kopf absenken, dann aus dem Ellbogen wieder strecken. Schulterblätter stabil, kein „Wandern“ der Oberarme nach hinten.",
+    "bild": null
+  },
+  {
+    "id": "tri_016",
+    "name": "Trizepsdrücken (Maschine, klassisch)",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Sitzhöhe so einstellen, dass Ellbogen auf Achse der Maschine liegen. Schulter unten, Brust neutral. Drücken bis fast Streckung, unten kurz halten. Kontrolliert zurück, ohne dass die Schultern nach vorne hochziehen oder du vom Sitz abhebst.",
+    "bild": null
+  },
+  {
+    "id": "tri_017",
+    "name": "Trizepsdrücken (Maschine, einarmig)",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Eine Seite arbeitet, Rumpf bleibt gerade. Ellbogen exakt auf Maschinenachse, Schulter tief. Drücken bis fast gerade, oben nicht einrasten. Langsam zurück, volle Kontrolle – ideal zum Ausgleich von Seitenunterschieden.",
+    "bild": null
+  },
+  {
+    "id": "tri_018",
+    "name": "Trizepsdrücken (Maschine, Iso-Hold unten)",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Wie Maschinen-Pushdown, aber am unteren Punkt 2–3 Sekunden halten. Fokus: Schulter bleibt unten, Ellbogen bleiben dort, wo sie sind. Danach langsam hoch – kein „Schnalzen“ der Gewichte.",
+    "bild": null
+  },
+  {
+    "id": "tri_019",
+    "name": "Overhead Trizepsstrecken (Maschine, falls vorhanden)",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Sitz so einstellen, dass die Griffe bequem hinter/über dem Kopf starten. Ellbogen eng, Oberarme nahe am Kopf. Aus dem Ellbogen strecken bis fast gerade, oben kurz anspannen. Langsam zurück in die Dehnung, ohne ins Hohlkreuz zu fallen.",
+    "bild": null
+  },
+  {
+    "id": "tri_020",
+    "name": "Dips (Trizepsfokus, aufrecht)",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Stützbarren, Körper möglichst aufrecht (nicht stark nach vorne kippen). Schulterblätter aktiv unten halten, Ellbogen eher eng. Kontrolliert absenken bis Oberarm mindestens parallel zum Boden (nur so tief wie schmerzfrei). Dann aus dem Trizeps hochdrücken, oben nicht komplett „durchknallen“.",
+    "bild": null
+  },
+  {
+    "id": "tri_021",
+    "name": "Bank-Dips (Körpergewicht, knieschonend aufgestellt)",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Hände auf Bank hinter dem Körper, Finger nach vorne. Schulterblätter nach hinten/unten, Brust offen. Ellbogen nach hinten beugen (nicht seitlich flaren) und kontrolliert absenken. Nur so tief, wie die Schulter sauber bleibt. Hochdrücken bis fast Streckung, ohne Schultern hochzuziehen.",
+    "bild": null
+  },
+  {
+    "id": "tri_022",
+    "name": "Liegestütze (enge Hände / Trizepsfokus)",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Hände unter/leicht innerhalb Schulterbreite. Körper als Brett: Bauch fest, Gesäß angespannt. Ellbogen eng am Körper nach hinten führen. Brust kontrolliert Richtung Boden, dann aus dem Trizeps hochdrücken. Kein Durchhängen im unteren Rücken.",
+    "bild": null
+  },
+  {
+    "id": "tri_023",
+    "name": "Diamond Push-ups",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Daumen/Zeigefinger bilden ein Dreieck unter der Brust. Ellbogen eng halten, Schulterblätter stabil. Langsam absenken, ohne dass Schultern nach vorne kollabieren. Hochdrücken mit sauberer Körperspannung; wenn Handgelenke stressen, auf Griffe/Fäuste ausweichen.",
+    "bild": null
+  },
+  {
+    "id": "tri_024",
+    "name": "Bench Close-Grip Push-ups (Hände auf Bank erhöht)",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Hände eng auf einer Bank, Körper in gerader Linie. Ellbogen nach hinten, nicht seitlich. Tiefe so wählen, dass Schulter stabil bleibt. Hochdrücken bis fast Streckung, Spannung im Trizeps halten.",
+    "bild": null
+  },
+  {
+    "id": "tri_025",
+    "name": "Ring Dips (Trizepsfokus, kontrolliert)",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Ringe dicht am Körper halten, Schultern aktiv unten. Langsam absenken, Ellbogen nahe am Körper, keine wackelige Schulterposition erzwingen. Hochdrücken mit kontrollierter Stabilität, oben kurz stabilisieren. Nur ausführen, wenn Schulter/Ring-Kontrolle vorhanden ist.",
+    "bild": null
+  },
+  {
+    "id": "tri_026",
+    "name": "Trizepsstrecken (Kurzhantel, einarmig über Kopf)",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Kurzhantel über Kopf, Ellbogen zeigt nach vorne/oben und bleibt eng. Oberarm nahe am Kopf, Core fest (kein Hohlkreuz). Unterarm kontrolliert hinter den Kopf absenken, Dehnung spüren. Aus dem Ellbogen strecken bis fast gerade, oben kurz anspannen.",
+    "bild": null
+  },
+  {
+    "id": "tri_027",
+    "name": "Trizepsstrecken (Kurzhantel, beidarmig über Kopf)",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Eine Kurzhantel mit beiden Händen am Griff/Innenplatte halten. Ellbogen eng, nicht nach außen „aufklappen“. Absenken hinter den Kopf bis Dehnung im Trizeps, dann strecken. Rippen runter, Nacken lang.",
+    "bild": null
+  },
+  {
+    "id": "tri_028",
+    "name": "Trizeps-Kickbacks (Kurzhantel)",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Hüftscharnier, Rücken neutral. Oberarm parallel zum Boden fixieren, Ellbogen bleibt oben. Unterarm nach hinten strecken bis fast gerade, oben 1 Sekunde halten. Langsam zurück bis ca. 90°, ohne den Oberarm abzusenken.",
+    "bild": null
+  },
+  {
+    "id": "tri_029",
+    "name": "Floor Press (Kurzhantel, enger Griff / Trizepsfokus)",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Am Boden liegen, Knie angewinkelt. Kurzhanteln eng führen, Ellbogen eher am Körper. Absenken bis Ellbogen den Boden leicht berühren (Pause möglich), dann hochdrücken. Schulterblätter bleiben stabil, Handgelenke gerade.",
+    "bild": null
+  },
+  {
+    "id": "tri_030",
+    "name": "Enges Bankdrücken (Langhantel)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Griff etwa schulterbreit (nicht ultra-eng, Handgelenke schützen). Schulterblätter hinten/unten, Füße fest. Stange kontrolliert zur unteren Brust, Ellbogen eher eng. Hochdrücken, ohne die Schultern nach vorne hochziehen zu lassen. Fokus: Trizeps drückt, Brust stabilisiert.",
+    "bild": null
+  },
+  {
+    "id": "tri_031",
+    "name": "Floor Press (Langhantel, Trizepsfokus)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Am Boden liegen, Schulterblätter stabil. Griff moderat eng. Stange ablassen bis Oberarme den Boden berühren (ROM begrenzt, trizepslastig). Kurzer Stopp, dann explosiv hoch. Kein Überstrecken im Lockout.",
+    "bild": null
+  },
+  {
+    "id": "tri_032",
+    "name": "Skull Crushers (Langhantel, zur Stirn)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Auf Bank, Arme senkrecht. Ellbogen eng und zeigen zur Decke. Unterarme Richtung Stirn absenken, ohne dass die Ellbogen auseinandergehen. Aus dem Ellbogen strecken. Optional die Stange leicht hinter den Kopf führen, wenn es sich besser anfühlt (mehr Dehnung).",
+    "bild": null
+  },
+  {
+    "id": "tri_033",
+    "name": "Skull Crushers (Langhantel, hinter den Kopf / „French Press“ liegend)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Wie Skullcrusher, aber der Unterarm senkt die Stange kontrolliert hinter den Kopf ab, bis Dehnung im langen Trizepskopf spürbar ist. Ellbogen bleiben eng und stabil. Danach strecken, ohne Schwung. Schulter bleibt gesetzt, kein „Wackeln“ im Oberarm.",
+    "bild": null
+  },
+  {
+    "id": "tri_034",
+    "name": "JM Press (Langhantel, technisch sauber)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Mischung aus engem Bankdrücken und Skullcrusher. Von oben Stange kontrolliert Richtung oberen Brustkorb absenken, dabei Ellbogen nach vorne/oben und eng halten. Stoppen, wenn Trizeps Spannung maximal ist, dann hochdrücken. Gewicht moderat wählen, Bewegung darf nie in Schulterstress kippen.",
+    "bild": null
+  },
+  {
+    "id": "tri_035",
+    "name": "Close-Grip Push Press-Out (Langhantel, im Stand, sehr leicht)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Stange auf Brusthöhe, Griff eng. Ohne Beinschwung nach vorne/oben drücken (kein echtes Overhead Pressen), Fokus auf Trizeps-Streckung. Core fest, Schulter tief. Nur als leichter Pump-Finisher, nicht als Max-Übung.",
+    "bild": null
+  },
+  {
+    "id": "tri_036",
+    "name": "EZ-Bar Skull Crushers (Curlstange)",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "EZ-Stange reduziert Handgelenkstress. Ellbogen eng, Oberarme ruhig. Stange Richtung Stirn absenken, dann aus dem Trizeps strecken. Keine Schulterbewegung „nach hinten“, damit es Trizeps bleibt.",
+    "bild": null
+  },
+  {
+    "id": "tri_037",
+    "name": "EZ-Bar French Press (stehend, über Kopf)",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "EZ-Stange über Kopf, Ellbogen eng und leicht nach vorne. Unterarme hinter den Kopf absenken, Dehnung spüren. Aus dem Ellbogen strecken bis fast gerade. Core fest, kein Hohlkreuz; Nacken bleibt lang.",
+    "bild": null
+  },
+  {
+    "id": "tri_038",
+    "name": "EZ-Bar Close-Grip Bench Press (Curlstange)",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Auf Bank, EZ-Griff erlaubt oft angenehmere Handstellung. Schulterblätter setzen, Füße stabil. Stange kontrolliert zur unteren Brust, Ellbogen eng. Hochdrücken aus Trizeps, oben nicht ins Gelenk knallen.",
+    "bild": null
+  },
+  {
+    "id": "tri_039",
+    "name": "Kurzhantel-Skull Crushers (neutraler Griff)",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Auf Bank, Kurzhanteln mit neutralem Griff. Ellbogen eng, Oberarme senkrecht. Unterarme absenken Richtung Schläfen, dann strecken. Neutralgriff ist oft schulter- und handgelenkfreundlicher; kontrollierte Negative.",
+    "bild": null
+  },
+  {
+    "id": "tri_040",
+    "name": "Kurzhantel-French Press (liegend, einarmig)",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Ein Arm arbeitet, Oberarm senkrecht, Ellbogen eng. Hantel kontrolliert Richtung Ohr/Schläfe absenken, dann strecken. Schulter bleibt stabil, kein Ausweichen über Rotation. Perfekt für strikte Technik und Seitenkontrolle.",
+    "bild": null
+  },
+  {
+    "id": "tri_041",
+    "name": "Trizepsdrücken am Kabel (Seil, kniend, Ellbogen am Boden abgestützt)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Kniend vor dem Kabel, Ellbogen auf Bank/Pad abstützen (wie Preacher-Setup für Trizeps). Ellbogen bleiben fix, Unterarm streckt gegen den Widerstand. Langsam zurück bis Dehnung, dann wieder strecken. Ziel: maximale Isolation ohne Körper-Schwung.",
+    "bild": null
+  },
+  {
+    "id": "tri_042",
+    "name": "Trizepsstrecken (Kabel, „Cross-Body“ einarmig)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Seitlich zum Kabel stehen, Griff in der äußeren Hand. Ellbogen eng, Unterarm bewegt sich diagonal über den Körper nach unten/außen bis fast Streckung. Oberarm bleibt ruhig, Schulter unten. Kontrolliert zurück, ohne Rumpf mitzudrehen.",
+    "bild": null
+  },
+  {
+    "id": "tri_043",
+    "name": "Trizepsdrücken (Band, klassisch)",
+    "kategorie": "band",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Band hoch fixieren, Enden greifen. Stand stabil, Ellbogen eng. Band nach unten drücken bis fast Streckung, unten kurz halten. Langsam zurück – Bandspannung steigt oben, daher besonders sauber kontrollieren, damit die Ellbogen nicht nach vorne fliegen.",
+    "bild": null
+  },
+  {
+    "id": "tri_044",
+    "name": "Overhead Trizepsstrecken (Band)",
+    "kategorie": "band",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Band hinter dem Körper oder unter den Füßen fixieren. Hände über Kopf, Ellbogen eng. Unterarme hinter den Kopf absenken, dann strecken. Core fest, Rippen runter. Band zieht nach vorne – Schulter bewusst unten/hinten halten.",
+    "bild": null
+  },
+  {
+    "id": "tri_045",
+    "name": "Band-Kickbacks (einarmig)",
+    "kategorie": "band",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Band auf Brusthöhe fixieren, einarmig greifen. Hinge-Position, Oberarm parallel zum Boden. Unterarm nach hinten strecken, oben kurz halten. Langsam zurück. Band erlaubt saubere, hohe Wiederholungen ohne Gelenkstress – aber nur, wenn der Oberarm wirklich stabil bleibt.",
+    "bild": null
+  },
+  {
+    "id": "tri_046",
+    "name": "Diamond Push-ups (Band-unterstützt)",
+    "kategorie": "band",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Band um den Rücken und unter die Hände legen, um den schwersten Teil zu unterstützen. Diamond-Handposition unter der Brust, Ellbogen eng. Körper bleibt gerade, kontrolliert absenken, hochdrücken ohne Hohlkreuz. Bandspannung hilft oben – trotzdem Technik sauber halten.",
+    "bild": null
+  },
+  {
+    "id": "tri_047",
+    "name": "Trizepsdrücken (Kettlebell, Floor Press eng)",
+    "kategorie": "kettlebell",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Am Boden liegen, Kettlebell(s) eng führen. Ellbogen nahe am Körper, Unterarm senkrecht. Absenken bis Ellbogen den Boden leicht berühren, dann hochdrücken. Core stabil, Handgelenk gerade – KB darf nicht nach hinten kippen.",
+    "bild": null
+  },
+  {
+    "id": "tri_048",
+    "name": "Trizepsstrecken (Kettlebell, einarmig über Kopf)",
+    "kategorie": "kettlebell",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "KB in Rack/Overhead-Position, Ellbogen zeigt nach vorne und bleibt eng. Unterarm kontrolliert hinter den Kopf absenken, dann strecken. Core fest, kein Hohlkreuz. KB stabilisieren, nicht wackeln lassen – lieber leichter starten.",
+    "bild": null
+  },
+  {
+    "id": "tri_049",
+    "name": "Trizepsdrücken (Kabel, „Straight-Bar“ mit Pause im Stretch)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Pushdown wie gewohnt. Oben im Stretch (Unterarme ca. parallel zum Boden) 1–2 Sekunden stoppen, Ellbogen bleiben am Körper. Dann sauber nach unten drücken. Ziel: keine Stretch-Reflex-Schummelei, maximale Kontrolle.",
+    "bild": null
+  },
+  {
+    "id": "tri_050",
+    "name": "Overhead Trizepsstrecken (Kabel, Seil, Stretch-Pause unten)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Overhead-Variante mit Seil. Unten in der Dehnung 1 Sekunde halten (ohne Schulter zu verlieren), dann strecken. Ellbogen bleiben eng, Core fest. Sehr effektiv für den langen Kopf, wenn du die Position stabil hältst.",
+    "bild": null
+  },
+  {
+    "id": "tri_051",
+    "name": "Trizepsdrücken (Maschine, Teilwiederholungen im oberen Drittel)",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Nach normalen Wiederholungen im oberen Drittel (nahe Streckung) kurze Teilreps ausführen, ohne einzurasten. Schulter bleibt unten, Ellbogen auf Achse. Ziel: konstante Spannung im Peak, kein „Durchschlagen“ der Gewichte.",
+    "bild": null
+  },
+  {
+    "id": "tri_052",
+    "name": "Enges Bankdrücken (Kurzhantel, neutraler Griff)",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Flachbank, Kurzhanteln eng und neutral (Handflächen zueinander). Ellbogen nahe am Körper, Schulterblätter stabil. Hanteln kontrolliert absenken bis knapp über der Brust, dann hochdrücken. Neutralgriff entlastet oft Schulter und trifft Trizeps sauber.",
+    "bild": null
+  },
+  {
+    "id": "tri_053",
+    "name": "Tate Press (Kurzhantel)",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Auf Bank liegen, Kurzhanteln über der Brust halten. Ellbogen nach außen, Hanteln kontrolliert Richtung Brust/Schultern absenken (als würdest du sie „zusammenklappen“), dann aus dem Trizeps zurückdrücken. Handgelenke stabil, Bewegung kontrolliert – kein Schulterstress erzwingen.",
+    "bild": null
+  },
+  {
+    "id": "tri_054",
+    "name": "Trizepsstrecken (Kurzhantel, „PJR Pullover“)",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Auf Bank, eine Kurzhantel mit beiden Händen. Kombination aus Pullover + Trizepsstrecken: Hantel Richtung Stirn/oberer Kopf ablassen, dabei Ellbogen beugen und leicht nach hinten führen. Dann aus Ellbogen strecken und zurück. Fokus: Trizeps-Dehnung ohne Schulter-Überstreckung; langsam ausführen.",
+    "bild": null
+  },
+  {
+    "id": "tri_055",
+    "name": "Trizepsstrecken (Kabel, „Bayesian“ Overhead – Kabel hinter dem Körper)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Mit dem Rücken zum Kabel stehen, Griff/Seil hinter dem Körper greifen, Arme über Kopf bringen. Kabel zieht nach hinten → großer Stretch. Ellbogen eng und leicht nach vorne, aus dem Ellbogen strecken bis fast gerade. Core fest, keine Rumpfbewegung. Langsam zurück in die Dehnung.",
+    "bild": null
+  },
+  {
+    "id": "tri_056",
+    "name": "Trizepsdrücken (Kabel, D-Handle beidarmig, parallel)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Zwei D-Griffe am Kabelturm einhängen. Hände neutral, Ellbogen eng. Drücken bis fast Streckung, unten kurz halten. Rückweg kontrolliert. Vorteil: natürliche Handgelenksposition, oft sehr sauberer Trizeps-Drive.",
+    "bild": null
+  },
+  {
+    "id": "tri_057",
+    "name": "Trizepsstrecken (Kabel, einarmig, Ellbogen am Rippenbogen „eingeklemmt“)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Einarmiges Pushdown mit bewusst festem Ellbogen: Ellbogen an den Rippenbogen „klemmen“, Schulter tief. Strecken bis fast gerade, oben nicht einrasten. Langsam zurück, ohne dass der Ellbogen seine Position verliert. Minimaler Körperimpuls, maximale Isolation.",
+    "bild": null
+  },
+  {
+    "id": "tri_058",
+    "name": "Dips (gewichtete Variante, Trizepsfokus)",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Wie Dips aufrecht, zusätzlich Gewicht am Gürtel oder zwischen den Beinen. Schultern aktiv unten, Ellbogen eher eng. Kontrollierte Tiefe (schmerzfrei), dann kraftvoll hochdrücken. Kein „Bouncen“ unten, keine Schulter-Protraktion oben.",
+    "bild": null
+  },
+  {
+    "id": "tri_059",
+    "name": "Trizeps-Holds (Kabel, gestreckter Arm, isometrisch)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Pushdown-Position fast gestreckt halten (Arm nicht komplett einrasten). Schulter unten, Ellbogen eng. 10–30 Sekunden halten, gleichmäßig atmen, Körper bleibt ruhig. Sehr effektiv als Finisher, wenn Technik sauber bleibt.",
+    "bild": null
+  },
+  {
+    "id": "tri_060",
+    "name": "Trizepsstrecken (Maschine oder Kabel, einarmig, exzentrischer Fokus 5 Sekunden)",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Prinzip: konzentrisch normal drücken/strecken, dann 5 Sekunden kontrolliert zurück in die Beugung. Ellbogen bleibt fix, Schulter tief. Gewicht entsprechend reduzieren, damit die 5-Sekunden-Phase ohne Schummeln möglich ist. Ziel: maximale Kontrolle, maximaler Reiz bei wenig Gelenkstress.",
+    "bild": null
+  }
+]
+

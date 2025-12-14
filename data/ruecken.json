@@ -1,0 +1,506 @@
+[
+  {
+    "id": "back_001",
+    "name": "Kreuzheben (klassisch)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Füße hüftbreit, Rücken neutral, Lat aktiv vorspannen. Stange nah am Körper führen. Aus den Beinen starten, Hüfte und Knie gleichzeitig strecken. Oben nicht überstrecken.",
+    "bild": null
+  },
+  {
+    "id": "back_002",
+    "name": "Kreuzheben (Sumo)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Breiter Stand, Füße leicht außen. Knie aktiv nach außen drücken, Oberkörper aufrechter als beim klassischen Heben. Latspannung halten.",
+    "bild": null
+  },
+  {
+    "id": "back_003",
+    "name": "Rack Pulls (unterhalb Knie)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Teil-ROM aus erhöhter Position. Fokus oberer Rücken und Trapez. Spannung im Core, kontrolliertes Absenken.",
+    "bild": null
+  },
+  {
+    "id": "back_004",
+    "name": "Langhantelrudern (klassisch)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Oberkörper nach vorne geneigt, Rücken neutral. Zug zur Hüfte oder zum Bauchnabel. Schulterblätter aktiv zusammenführen.",
+    "bild": null
+  },
+  {
+    "id": "back_005",
+    "name": "Pendlay Rows",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Oberkörper parallel zum Boden. Jede Wiederholung startet vom Boden. Explosiv hochziehen, kontrolliert ablegen.",
+    "bild": null
+  },
+  {
+    "id": "back_006",
+    "name": "T-Bar Row",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Brust raus, Griff zur unteren Brust ziehen. Ellbogen eng am Körper, Fokus mittlerer Rücken.",
+    "bild": null
+  },
+  {
+    "id": "back_007",
+    "name": "Kurzhantelrudern (einarmig)",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Zug zur Hüfte, Schulter bleibt unten. Kein Rotationsschwung im Oberkörper.",
+    "bild": null
+  },
+  {
+    "id": "back_008",
+    "name": "Chest Supported Row",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Brust liegt am Polster. Zugbewegung ohne Schwung, Fokus mittlerer Rücken.",
+    "bild": null
+  },
+  {
+    "id": "back_009",
+    "name": "Kabelrudern (neutraler Griff)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Aufrecht sitzen, Zug zum Bauch. Schulterblätter bewusst nach hinten/unten führen.",
+    "bild": null
+  },
+  {
+    "id": "back_010",
+    "name": "Kabelrudern (weiter Griff)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Weiter Griff für oberen Rücken. Ellbogen seitlich führen, Brust bleibt aufrecht.",
+    "bild": null
+  },
+  {
+    "id": "back_011",
+    "name": "Latzug (breit zur Brust)",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Zug zur oberen Brust. Ellbogen nach unten führen, kein Zurücklehnen.",
+    "bild": null
+  },
+  {
+    "id": "back_012",
+    "name": "Latzug (enger Griff)",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Ellbogen eng am Körper, Fokus Lat. Kein Bizeps-Curl.",
+    "bild": null
+  },
+  {
+    "id": "back_013",
+    "name": "Latzug (einarmig)",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Einarmig ziehen, Schulter bleibt unten. Sehr gute Lat-Isolation.",
+    "bild": null
+  },
+  {
+    "id": "back_014",
+    "name": "Klimmzüge (Obergriff)",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Kinn über Stange, unten volle Streckung. Kontrollierte Negativphase.",
+    "bild": null
+  },
+  {
+    "id": "back_015",
+    "name": "Klimmzüge (neutral)",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Neutralgriff schont Schulter. Brust aktiv zur Stange ziehen.",
+    "bild": null
+  },
+  {
+    "id": "back_016",
+    "name": "Straight Arm Pulldown",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Arme fast gestreckt. Bewegung aus dem Schultergelenk, Lat maximal isolieren.",
+    "bild": null
+  },
+  {
+    "id": "back_017",
+    "name": "Cable Pullover",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Keine Ellbogenbeugung. Großer Stretch, kontrollierte Kontraktion.",
+    "bild": null
+  },
+  {
+    "id": "back_018",
+    "name": "Reverse Flys (Kurzhantel)",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Vorgebeugt, Arme leicht gebeugt. Bewegung aus hinterer Schulter und oberem Rücken.",
+    "bild": null
+  },
+  {
+    "id": "back_019",
+    "name": "Reverse Flys (Maschine)",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Geführte Bewegung. Fokus Rear Delts und oberer Rücken.",
+    "bild": null
+  },
+  {
+    "id": "back_020",
+    "name": "Face Pulls",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Zug zur Stirn, Ellbogen hoch. Außenrotation bewusst betonen.",
+    "bild": null
+  },
+  {
+    "id": "back_021",
+    "name": "Face Pulls (Pause)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "In Endposition 1–2 Sekunden halten. Maximale Schulterblattkontrolle.",
+    "bild": null
+  },
+  {
+    "id": "back_022",
+    "name": "Rear-Delt Row (Ellbogen außen)",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Ellbogen bewusst nach außen ziehen. Kurzer Bewegungsradius, Fokus hintere Schulter.",
+    "bild": null
+  },
+  {
+    "id": "back_023",
+    "name": "Back Extensions",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Hüftstreckung kontrolliert. Rücken neutral, oben nicht überstrecken.",
+    "bild": null
+  },
+  {
+    "id": "back_024",
+    "name": "Good Mornings",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Hüftscharnier mit leicht gebeugten Knien. Rücken bleibt neutral, Fokus Rückenstrecker.",
+    "bild": null
+  },
+
+  {
+    "id": "back_025",
+    "name": "Shrugs (Langhantel)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Schultern vertikal anheben. Kein Kreisen, kurze Pause oben.",
+    "bild": null
+  },
+  {
+    "id": "back_026",
+    "name": "Shrugs (Kurzhantel)",
+    "kategorie": "kurzhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Hanteln seitlich halten. Schultern hochziehen, Nacken bleibt lang.",
+    "bild": null
+  },
+  {
+    "id": "back_027",
+    "name": "Shrugs (Maschine)",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Geführte Bewegung, Fokus Trapez. Oben bewusst halten.",
+    "bild": null
+  },
+  {
+    "id": "back_028",
+    "name": "Shrugs (exzentrischer Fokus)",
+    "kategorie": "langhantel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Schultern kraftvoll anheben, dann 3–4 Sekunden kontrolliert ablassen.",
+    "bild": null
+  },
+  {
+    "id": "back_029",
+    "name": "Isometrischer Shrug Hold",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "Zeit",
+    "startgewicht": 0,
+    "beschreibung": "Schultern anheben und statisch halten. Kein Kreisen, Nacken locker.",
+    "bild": null
+  },
+  {
+    "id": "back_030",
+    "name": "Farmer’s Walk",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "Zeit",
+    "startgewicht": 0,
+    "beschreibung": "Schwere Gewichte tragen. Trapez, Core und Griffkraft arbeiten statisch.",
+    "bild": null
+  },
+  {
+    "id": "back_031",
+    "name": "Rack Carry",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "Zeit",
+    "startgewicht": 0,
+    "beschreibung": "Gewichte in Rack-Position tragen. Aufrechte Haltung, Nacken stabil.",
+    "bild": null
+  },
+  {
+    "id": "back_032",
+    "name": "Yoke Walk",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "Zeit",
+    "startgewicht": 0,
+    "beschreibung": "Schwere Last auf dem Rücken tragen. Maximaler Trapez- und Core-Reiz.",
+    "bild": null
+  },
+  {
+    "id": "back_033",
+    "name": "Neck Flexion (Band)",
+    "kategorie": "band",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Kinn kontrolliert Richtung Brust ziehen. Sehr langsame Bewegung.",
+    "bild": null
+  },
+  {
+    "id": "back_034",
+    "name": "Neck Extension (Band)",
+    "kategorie": "band",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Kopf kontrolliert nach hinten führen. Kein ruckartiger Zug.",
+    "bild": null
+  },
+  {
+    "id": "back_035",
+    "name": "Neck Lateral Flexion (Band)",
+    "kategorie": "band",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Kopf seitlich neigen gegen Bandwiderstand. Sehr kontrolliert.",
+    "bild": null
+  },
+  {
+    "id": "back_036",
+    "name": "Neck Isometric Holds",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "Zeit",
+    "startgewicht": 0,
+    "beschreibung": "Kopf gegen Widerstand halten. Spannung gleichmäßig, keine Bewegung.",
+    "bild": null
+  },
+
+  {
+    "id": "back_037",
+    "name": "Scapula Pull-ups",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Aus dem Hang nur Schulterblätter bewegen. Vorbereitung für saubere Klimmzüge.",
+    "bild": null
+  },
+  {
+    "id": "back_038",
+    "name": "Dead Hang",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "Zeit",
+    "startgewicht": 0,
+    "beschreibung": "Passiv an der Stange hängen. Griffkraft, Schulterdekompression.",
+    "bild": null
+  },
+  {
+    "id": "back_039",
+    "name": "Dead Hang aktiv",
+    "kategorie": "koerpergewicht",
+    "saetze": 0,
+    "wdh": "Zeit",
+    "startgewicht": 0,
+    "beschreibung": "Aktiv Schulterblätter leicht anziehen. Mehr Kontrolle als passiver Hang.",
+    "bild": null
+  },
+  {
+    "id": "back_040",
+    "name": "Kabel Face Pull Low-to-High",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Zug von unten nach oben. Fokus unterer Trapez und Rear Delts.",
+    "bild": null
+  },
+  {
+    "id": "back_041",
+    "name": "Reverse Pec Deck (Pause)",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "In Kontraktion 1–2 Sekunden halten. Fokus hintere Schulter/oberer Rücken.",
+    "bild": null
+  },
+  {
+    "id": "back_042",
+    "name": "Meadows Row",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Einarmiges Rudern mit Landmine. Großer Stretch, starke Lat-Aktivierung.",
+    "bild": null
+  },
+  {
+    "id": "back_043",
+    "name": "Kabelrudern (einarmig)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Unilateraler Zug zur Hüfte. Schulter bleibt unten, Core stabil.",
+    "bild": null
+  },
+  {
+    "id": "back_044",
+    "name": "Lat Pulldown (Pause unten)",
+    "kategorie": "maschine",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "In Endposition kurz halten. Fokus saubere Lat-Kontraktion.",
+    "bild": null
+  },
+  {
+    "id": "back_045",
+    "name": "Good Morning (Safety Bar)",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Safety-Bar-Variante schont Schulter. Fokus Rückenstrecker.",
+    "bild": null
+  },
+  {
+    "id": "back_046",
+    "name": "Hyperextensions (einarmig Zusatzlast)",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Einseitige Zusatzlast erhöht Stabilitätsanforderung.",
+    "bild": null
+  },
+  {
+    "id": "back_047",
+    "name": "Seal Row",
+    "kategorie": "sonstiges",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Bauchlage auf Bank. Kein Schwung, maximale Rückenisolierung.",
+    "bild": null
+  },
+  {
+    "id": "back_048",
+    "name": "Kabel High Row",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Zug von oben Richtung Brust. Fokus oberer Rücken.",
+    "bild": null
+  },
+  {
+    "id": "back_049",
+    "name": "Kabel Low Row (Pause)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "In Endposition halten. Schulterblätter bewusst fixieren.",
+    "bild": null
+  },
+  {
+    "id": "back_050",
+    "name": "Reverse Cable Fly (Low Load)",
+    "kategorie": "kabel",
+    "saetze": 0,
+    "wdh": "0",
+    "startgewicht": 0,
+    "beschreibung": "Sehr leichtes Gewicht. Fokus Schulterblattkontrolle und Durchblutung.",
+    "bild": null
+  }
+]
+
+
