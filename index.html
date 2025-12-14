@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="de">
 
 <head>
@@ -29,7 +29,7 @@
       margin: 0;
       font-family: 'Inter', system-ui, sans-serif;
       color: var(--text);
-      font-size: 21px;
+      font-size: 17px;
       min-height: 100vh;
 
       /* Hintergrundbild + Abdunklung */
@@ -39,7 +39,7 @@
     }
 
     header strong {
-      font-size: 30px;
+      font-size: 26px;
       font-weight: 900;
       letter-spacing: 1px;
     }
@@ -62,6 +62,7 @@
 
     button {
       min-height: var(--touch);
+      font-size: 17px;
       min-width: var(--touch);
       background: #222;
       border: 1px solid var(--border);
@@ -69,7 +70,7 @@
       padding: 10px 12px;
       border-radius: 8px;
       cursor: pointer;
-      font-size: 21px;
+      font-size: 17px;
     }
 
     button.primary {
@@ -113,12 +114,13 @@
 
     input {
       background: #111;
+      font-size: 17px;
       border: 1px solid var(--border);
       color: var(--text);
       border-radius: 8px;
       padding: 10px;
       width: 100%;
-      font-size: 21px;
+      font-size: 17px;
     }
 
     .card {
@@ -183,7 +185,7 @@
       display: flex;
       flex-direction: column;
       gap: 6px;
-      font-size: 21px;
+      font-size: 17px;
     }
 
     .exercise-actions {
@@ -193,8 +195,8 @@
       align-items: center;
     }
 
-    h2 { font-size: 26px; margin: 0 0 14px }
-    h3 { font-size: 22px; margin: 0 0 12px }
+    h2 { font-size: 22px; margin: 0 0 14px }
+    h3 { font-size: 18px; margin: 0 0 12px }
 
     .exercise-title-row {
       display: flex;
@@ -225,7 +227,7 @@
 
     /* Accordion */
     .accordion-header strong {
-      font-size: 30px;
+      font-size: 26px;
       font-weight: 900;
       letter-spacing: 1px;
     }
@@ -1020,11 +1022,7 @@ const MuscleMeta = {
   `);
 
   // Fokus auf Suche (nur wenn Modal neu ist)
-  setTimeout(() => {
-    const s = document.getElementById('pickerSearch');
-    if (s) s.focus();
-  }, 0);
-}
+  }
 
 static setPickerMuscle(muscle) {
         this.picker.muscle = muscle;
