@@ -132,7 +132,7 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      z-index: 1000;
+      z-index: 3000;
       padding: 16px;
     }
 
@@ -460,8 +460,40 @@
 
     /* ========== MOBILE FEINSCHLIFF ========== */
     @media (max-width: 520px) {
-      main { padding: 12px; }
-      .card { padding: 12px; }
+      /* Global scale down on phones */
+      body { font-size: 14px; }
+      main { padding: 10px; }
+
+      header { padding: 12px 12px; }
+      header strong { font-size: 20px; letter-spacing: .3px; }
+
+      button { font-size: 13px; padding: 8px 10px; border-radius: 14px; }
+      input { font-size: 13px; padding: 8px 10px; }
+
+      h2 { font-size: 18px; margin: 0 0 10px; }
+      h3 { font-size: 16px; margin: 0 0 8px; }
+
+      .card { padding: 10px; margin-bottom: 10px; }
+      .hint { font-size: 12px; }
+
+      .accordion-title { font-size: 16px; }
+      .accordion-meta { font-size: 12px; }
+
+      .exercise-title-row strong { font-size: 16px !important; }
+      .trend-pill { padding: 5px 8px; min-width: 40px; }
+
+      .pick-name { font-size: 14px; }
+      .pick-sub { font-size: 11px; }
+
+      .picker-row { gap: 8px; }
+      button.chip { padding: 8px 10px; font-size: 12px; }
+
+      /* Gym mode a bit smaller too */
+      .gym-ex-name { font-size: 20px; }
+      .pill { font-size: 12px; padding: 7px 10px; }
+      .gym-footer button.primary { min-width: 140px; }
+    }
+.card { padding: 12px; }
       button { border-radius: 14px; }
       .gym-ex-name { font-size: 24px; }
       .exercise-title-row strong { font-size: 18px; }
@@ -1006,12 +1038,6 @@ const MuscleMeta = {
       <button class="primary" onclick="UI.closeModal()">Fertig</button>
     </div>
   `);
-
-  // Fokus auf Suche (nur wenn Modal neu ist)
-  setTimeout(() => {
-    const s = document.getElementById('pickerSearch');
-    if (s) s.focus();
-  }, 0);
 }
 
 static setPickerMuscle(muscle) {
