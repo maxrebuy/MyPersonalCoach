@@ -37,7 +37,7 @@
     "wdh": "0",
     "startgewicht": 0,
     "beschreibung": "Hanteln auf Schulterhöhe, Handgelenke stabil. Senkrecht hochdrücken, oben Spannung halten, nicht komplett durchstrecken.",
-    "bild": null
+    "bild": "images/exercises/shoulder_004"
   },
   {
     "id": "shoulder_005",
@@ -88,7 +88,7 @@
     "wdh": "0",
     "startgewicht": 0,
     "beschreibung": "Arme leicht angewinkelt. Seitlich bis Schulterhöhe anheben, Schulter bleibt unten. Langsame Exzentrik.",
-    "bild": null
+    "bild": "images/exercises/shoulder_009"
   },
   {
     "id": "shoulder_010",
