@@ -7,7 +7,7 @@
     "wdh": "0",
     "startgewicht": 0,
     "beschreibung": "Schulterblätter hinten/unten, kontrolliert zur unteren Brust. Füße fest, Spannung halten.",
-    "bild": "images/exercises/chest_001"
+    "bild": "images/exercises/chest_001.png"
   },
   {
     "id": "chest_002",
@@ -107,7 +107,7 @@
     "wdh": "0",
     "startgewicht": 0,
     "beschreibung": "Ellbogen unter den Hanteln, sauberer Druck. Nicht zu steil einstellen.",
-    "bild": "images/exercises/chest_011"
+    "bild": "images/exercises/chest_011.png"
   },
   {
     "id": "chest_012",
@@ -400,3 +400,4 @@
     "bild": null
   }
 ]
+
