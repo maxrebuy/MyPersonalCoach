@@ -7,7 +7,7 @@
     "wdh": "0",
     "startgewicht": 0,
     "beschreibung": "Aufrecht stehen, Rippen runter, Gesäß leicht anspannen. Ellbogen eng am Oberkörper fixieren (nicht nach vorne wandern). Seil von Brusthöhe nach unten drücken, unten Arme strecken ohne ins Gelenk zu knallen. Am Ende das Seil leicht nach außen spreizen, um den Trizeps sauber zu verkürzen. Kontrolliert bis ca. 90° Ellbogenwinkel zurück, ohne Schulter hochzuziehen.",
-    "bild": "images/exercises/tri_001"
+    "bild": "images/exercises/tri_001.png"
   },
   {
     "id": "tri_002",
@@ -600,3 +600,4 @@
     "bild": null
   }
 ]
+
