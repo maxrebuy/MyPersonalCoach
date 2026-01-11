@@ -17,7 +17,7 @@
         "wdh": "0",
         "startgewicht": 0,
         "beschreibung": "Sitzend minimiert Schwung. Handgelenke neutral, kontrollierte Negative.",
-        "bild": null
+        "bild": "images/exercises/bi_002"
     },
     {
         "id": "bi_003",
@@ -57,7 +57,7 @@
         "wdh": "0",
         "startgewicht": 0,
         "beschreibung": "Rumpf stabil, Schulterblätter leicht zurück. Ellbogen stabil, kein Hüftschwung.",
-        "bild": null
+        "bild": "images/exercises/bi_006"
     },
     {
         "id": "bi_007",
