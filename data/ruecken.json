@@ -67,7 +67,7 @@
     "wdh": "0",
     "startgewicht": 0,
     "beschreibung": "Zug zur Hüfte, Schulter bleibt unten. Kein Rotationsschwung im Oberkörper.",
-    "bild": null
+    "bild": "images/exercises/back_007"
   },
   {
     "id": "back_008",
@@ -502,5 +502,3 @@
     "bild": null
   }
 ]
-
-
