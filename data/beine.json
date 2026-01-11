@@ -67,7 +67,7 @@
     "wdh": "0",
     "startgewicht": 0,
     "beschreibung": "Hinterer Fuß erhöht. Vorderes Knie folgt Zehen, Oberkörper leicht nach vorn, volle Kontrolle.",
-    "bild": "images/exercises/legs_007"
+    "bild": "images/exercises/legs_007.png"
   },
   {
     "id": "legs_008",
@@ -710,3 +710,4 @@
   "bild": "images/exercises/legs_071.png"
 }
 ]
+
